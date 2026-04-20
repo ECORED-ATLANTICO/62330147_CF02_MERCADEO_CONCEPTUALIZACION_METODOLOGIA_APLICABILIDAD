@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .row.mb-3.justify-content-center.align-items-center
-      .col-lg-2.col-md-8.mb-4.mb-lg-0
+      .col-lg-2.col-md-8.mb-4.mb-lg-0.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/img01.svg", data-aos="zoom-in")
       .col-lg-10

@@ -24,7 +24,6 @@
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
   background-position: left 50% !important
-  background-color: #EBF2BB !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
@@ -134,6 +133,24 @@ figcaption
     &::before
       background-color: #8C8FEC
 
+.bg-color-c1
+  background-color: #FFF8EA
+  &.cajon
+    &::before
+      background-color: #FEBA30
+
+.bg-color-c2
+  background-color: #FFF6F9
+  &.cajon
+    &::before
+      background-color: #FFA4C7
+
+.bg-color-c3
+  background-color: #EEF6FF
+  &.cajon
+    &::before
+      background-color: #5AA6FF
+
 .bg-color-white
   background-color: white !important
   border: 1px solid $lightest-gray
@@ -172,17 +189,22 @@ figcaption
     padding-right: 3rem
 
 .bg-fondo-1
-  // background-image: url("../assets/curso/tema2/bg01.png") !important
-  background-position: bottom
+  background-image: url("../assets/curso/tema1/bg-01.png") !important
+  background-position: center
   background-size: cover
 
 .bg-fondo-2
-  // background-image: url("../assets/curso/tema2/img12.png") !important
-  background-position: bottom
-  background-size: 100% 100%
+  background-image: url("../assets/curso/tema1/bg-02.png") !important
+  background-position: center
+  background-size: cover
 
 .bg-fondo-3
-  // background-image: url("../assets/curso/tema3/img03.png") !important
+  background-image: url("../assets/curso/tema3/img11.png") !important
+  background-position: bottom
+  background-size: cover
+
+.bg-fondo-4
+  background-image: url("../assets/curso/tema2/bg-acordeon.png") !important
   background-position: bottom
   background-size: cover
 
@@ -196,6 +218,9 @@ figcaption
 
 .br-15
   border-radius: 15px !important
+
+.br-25
+  border-radius: 0px 0px 25px 25px !important
 
 .bg-fondo-1-2
   // background-image: url("../assets/curso/bg/bg2.png") !important
@@ -273,13 +298,12 @@ figcaption
 
 // Tabs A
 .tabs-a__tab
-  background-color: #EBF4FF
+  background-color: #EDF3BC
 .tabs-a.color-acento-botones .tabs-a__tab__selected
-  background-color: #941FF0
-  color: white
+  background-color: #5AA6FF
 .tabs-a__content-item
   display: flex
-  height: 100%
+  // height: 100%
 .tabs-a
   .row
     .mb-3
@@ -379,7 +403,7 @@ figcaption
 
 /////////////ACORDION/////////////
 .acordion__accion__btn--a
-  background-color: #941FF0 !important
+  background-color: #fff !important
 .acordion__activo
   background-color: #EBF4FF !important
 .acordion_titulo
@@ -497,19 +521,19 @@ a, button, div
   background-color: #FFF8EA
 
 .bg-color-3
-  background-color: #FFE9D9
+  background-color: #FFF6F9
 
 .bg-color-4
   color: #9EC9FF !important
 
 .bg-color-5
-  background-color: #F5FAFF
+  background-color: #EEF6FF
 
 .bg-color-6
-  background-color: #FFEACB
+  background-color: #EDF3BC
 
 .bg-color-7
-  background-color: #FFF4E5
+  background-color: #F9FBE8
 
 .bg-color-17
   color: #17C1C1 !important
@@ -541,9 +565,9 @@ a, button, div
   background-color: #C5CFF0
 
 .tarjeta.color-acento-botones--borde
-  background-color: #FFF4E5
+  background-color: #F9FBE8
   color: #000
-  border: solid 4px #FFF4E5 !important
+  border: solid 4px #F9FBE8 !important
   height: fit-content !important
 // .tabs-a.color-acento-botones .tabs-a__tab__selected:before
 //   background-color: #1C6DDB !important
@@ -557,12 +581,13 @@ a, button, div
 
   //////////////CUSTON SLYDER-A////////
 .slyder-a__bullets__item
-  background-color: #FF964C
-  border: #FF964C
+  background-color: #FEBA30
+  border: #FEBA30
 .slyder-a__bullets__item--active
-  background-color: #FF964C
+  background-color: #FEBA30
 .slyder-a__btn--atrs, .slyder-a__btn--sigt
-  background-color: #FF964C
+  background-color: #5AA6FF
+  opacity: 1 !important
 .slyder-a__bullets__item
   @media screen and ( max-width: $bp-max-xs )
     margin: 0 5px
@@ -572,7 +597,7 @@ a, button, div
   position: relative
   z-index: 2
 .banner-text
-  background-color: #E6EDF1 !important
+  background-color: #fff !important
   border-radius: 10px
   padding: 50px
   margin-top: -60px
@@ -584,9 +609,9 @@ a, button, div
     margin-top: -10px
 
 .tabla-a thead
-  background-color: #FFEACB
+  background-color: #F9FBE8
 .tabla-a.color-acento-contenido thead
-  border-color: #FFEACB
+  border-color: #C2D723
 
 .tabla-a td
   text-align: start !important
@@ -649,11 +674,14 @@ a, button, div
   padding-left: 0px !important
 .acordion__activo
   background-color: #EBF4FF !important
+  background-image: url("../assets/curso/tema2/bg-acordeon.png") !important
+  background-position: bottom
+  background-size: cover
 .acordion__accion__btn--b
   background-color: #EFEFFC !important
   border: 1px solid #EFEFFC !important
 .acordion__accion__btn--a i, .acordion__accion__btn--b i
-  color: #fff
+  color: #12263F
 
 .lista-ul
   li
@@ -672,7 +700,7 @@ a, button, div
     border: 3px #2CBE91 solid
 
 .titulo-sexto.color-acento-contenido
-  border-left-color: #FF7630
+  border-left-color: #FEBA30
 
 .lista-ul li i:first-child, .lista-ul--separador li i:first-child, .lista-ul--color li i:first-child
   margin-top: 0px
@@ -868,3 +896,111 @@ a, button, div
 
 .tarjeta-numerada.bg-color-4 .tarjeta-numerada__numero
   background-color: #9EC9FF !important
+
+@media (min-width: 992px)
+  .tabs-a .row .col-lg-8
+    flex: 0 0 auto
+    width: 65% !important
+  .tabs-a .row .col-lg-4
+    flex: 0 0 auto
+    width: 35% !important
+
+//   // 
+// // --- CITA DECORADA --- //
+.tarjeta-cita-fondo-2
+  position: relative
+  background-image: url('../assets/curso/tema5/bg05.png')
+  background-size: cover
+  background-position: center
+  border-radius: 20px
+  min-height: 180px
+  @media (max-width: 991px)
+    padding-bottom: 210px !important
+
+.bloque-texto-b i
+  color: #9BAC1C !important
+
+.tarjeta-cita-fondo
+  position: relative
+  background-image: url('../assets/curso/tema1/bg-03.png')
+  background-size: cover
+  background-position: bottom
+  border-radius: 20px
+  min-height: 180px
+  @media (max-width: 991px)
+    padding-bottom: 135px !important
+
+/* Imagen flotante */
+.img-flotante-tema1
+  position: absolute
+  left: -5%
+  top: 50%
+  transform: translateY(-50%)
+  width: 43%
+  z-index: 2
+  @media (max-width: 1200px)
+    width: 40%
+  @media (max-width: 991px)
+    left: 50%
+    top: auto
+    bottom: -30px
+    transform: translateX(-50%)
+    width: 250px
+
+.img-flotante-tema3
+  position: absolute
+  left: 0%
+  top: 50%
+  transform: translateY(-50%)
+  width: 35%
+  z-index: 2
+  @media (max-width: 1200px)
+    width: 40%
+  @media (max-width: 991px)
+    left: 50%
+    top: auto
+    bottom: -30px
+    transform: translateX(-50%)
+    width: 250px
+
+.img-flotante-tema2
+  position: absolute
+  right: -5%
+  bottom: -10px
+  width: 43%
+  z-index: 2
+  @media (max-width: 1200px)
+    width: 40%
+  @media (max-width: 991px)
+    right: auto
+    left: 50%
+    top: auto
+    bottom: -30px
+    transform: translateX(-50%)
+    width: 250px
+
+.img-flotante-tema6
+  position: absolute
+  right: 5%
+  bottom: -10px
+  width: 25%
+  z-index: 2
+  @media (max-width: 1200px)
+    width: 30%
+  @media (max-width: 991px)
+    right: auto
+    left: 50%
+    top: auto
+    bottom: -30px
+    transform: translateX(-50%)
+    width: 200px
+
+
+/* Comillas */
+.bloque-texto-b__texto i
+  color: #8aa300
+  font-size: 22px
+
+.bloque-texto-b__texto h5
+  font-weight: 500
+  line-height: 1.5
