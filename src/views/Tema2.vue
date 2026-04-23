@@ -214,7 +214,7 @@
         p.mb-0 Asimismo, el uso de análisis de datos y tecnologías de personalización permite a las empresas ofrecer recomendaciones de productos basadas en el comportamiento de navegación de los usuarios, incrementando la probabilidad de conversión y mejorando la experiencia del cliente. Esta transformación digital ha convertido la gestión de la información en un elemento estratégico para la competitividad empresarial.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-10.col-md-12.mb-4      
+      .col-lg-10.col-md-12.mb-5      
         .bg-color-5
           .row.justify-content-center.align-items-center.p-4
             .col-lg-auto.d-none.d-lg-block
