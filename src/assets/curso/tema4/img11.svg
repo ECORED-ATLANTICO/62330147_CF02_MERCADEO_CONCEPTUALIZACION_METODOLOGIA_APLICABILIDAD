@@ -65,7 +65,7 @@
       <feComposite operator="in" in2="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_1191769" data-name="Grupo 1191769" transform="translate(-277.5 9512.357)">
+  <g id="Grupo_1191766" data-name="Grupo 1191766" transform="translate(-277.5 9512.357)">
     <g id="Enmascarar_grupo_1119456" data-name="Enmascarar grupo 1119456" transform="translate(-6081.5 -2597.01) rotate(90)" clip-path="url(#clip-path)">
       <path id="Trazado_1096639" data-name="Trazado 1096639" d="M0,0H1293.014V350.725H0Z" transform="translate(-7001.348 -6683.083)" fill="url(#linear-gradient-5)"/>
       <g id="Grupo_1191717" data-name="Grupo 1191717" transform="translate(-5990.419 -6724)" opacity="0.04" style="mix-blend-mode: multiply;isolation: isolate">
@@ -262,7 +262,7 @@
       </g>
       <text id="Plaza._Canales_de_distribución_que_facilitan_la_disponibilidad_del_producto._" data-name="Plaza.
 Canales de distribución que facilitan la disponibilidad del producto.
-" transform="translate(857 1521.58)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Plaza.</tspan><tspan x="0" y="39">Canales de distribución que </tspan><tspan x="0" y="63">facilitan la disponibilidad </tspan><tspan x="0" y="87">del producto.</tspan><tspan x="0" y="111"></tspan></text>
+" transform="translate(857 1521.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Plaza.</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="39">Canales de distribución que </tspan><tspan x="0" y="63">facilitan la disponibilidad </tspan><tspan x="0" y="87">del producto.</tspan><tspan x="0" y="111"></tspan></tspan></text>
     </g>
     <path id="Trazado_1097119" data-name="Trazado 1097119" d="M41.725,28.43V31.4H21.178V29.27L33.912,9.563h2.949l-3.164,5.7L25.279,28.43ZM37.76,9.563V38H34.146V9.563ZM56.412,26.848h-7.6V23.781h7.6a7.826,7.826,0,0,0,3.574-.7,4.442,4.442,0,0,0,2-1.953,6.5,6.5,0,0,0,0-5.605,4.879,4.879,0,0,0-2-2.08,7.091,7.091,0,0,0-3.574-.791H49.693V38h-3.77V9.563H56.412a12.1,12.1,0,0,1,5.449,1.113,7.89,7.89,0,0,1,3.379,3.076,8.687,8.687,0,0,1,1.152,4.482A8.96,8.96,0,0,1,65.24,22.9a7.31,7.31,0,0,1-3.379,2.939A13.2,13.2,0,0,1,56.412,26.848Z" transform="translate(310.135 -9461.014)" fill="#12263f"/>
     <g id="Grupo_1190012" data-name="Grupo 1190012" transform="translate(-217.414 -10876.393)">
@@ -341,7 +341,7 @@ Canales de distribución que facilitan la disponibilidad del producto.
       </g>
       <text id="Producto._Representa_la_oferta_que_satisface_una_necesidad_del_consumidor._" data-name="Producto.
 Representa la oferta que satisface una necesidad del consumidor.
-" transform="translate(563.737 1517.277)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Producto.</tspan><tspan x="0" y="39">Representa la oferta que </tspan><tspan x="0" y="63">satisface una necesidad </tspan><tspan x="0" y="87">del consumidor.</tspan></text>
+" transform="translate(563.737 1517.277)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Producto.</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="39">Representa la oferta que </tspan><tspan x="0" y="63">satisface una necesidad </tspan><tspan x="0" y="87">del consumidor.</tspan></tspan></text>
     </g>
     <g id="Grupo_1190013" data-name="Grupo 1190013" transform="translate(73.468 -10710.538)">
       <g id="Enmascarar_grupo_1119363" data-name="Enmascarar grupo 1119363" transform="translate(233.532 1497.133)" clip-path="url(#clip-path-9)">
@@ -379,7 +379,7 @@ Representa la oferta que satisface una necesidad del consumidor.
       </g>
       <text id="Precio._Define_el_valor_económico_percibido_por_el_cliente._" data-name="Precio.
 Define el valor económico percibido por el cliente.
-" transform="translate(267.464 1509.545)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Precio.</tspan><tspan x="0" y="39">Define el valor económico </tspan><tspan x="0" y="63">percibido por el cliente.</tspan><tspan x="0" y="87"></tspan></text>
+" transform="translate(267.464 1509.545)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Precio.</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="39">Define el valor económico </tspan><tspan x="0" y="63">percibido por el cliente.</tspan><tspan x="0" y="87"></tspan></tspan></text>
     </g>
     <g id="Grupo_1190010" data-name="Grupo 1190010" transform="translate(-823.839 -10378.282)">
       <g id="Grupo_1190001" data-name="Grupo 1190001" transform="translate(1361.772 1658.116) rotate(180)" clip-path="url(#clip-path-11)">
@@ -424,7 +424,7 @@ Define el valor económico percibido por el cliente.
         </g>
       </g>
       <text id="Promoción._Incluye_las_actividades_de_comunicación_que_informan_y_persuaden_al_consumidor." data-name="Promoción.
-Incluye las actividades de comunicación que informan y persuaden al consumidor." transform="translate(1178.414 1516.379)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Promoción.</tspan><tspan x="0" y="39">Incluye las actividades </tspan><tspan x="0" y="63">de comunicación que </tspan><tspan x="0" y="87">informan y persuaden al </tspan><tspan x="0" y="111">consumidor.</tspan></text>
+Incluye las actividades de comunicación que informan y persuaden al consumidor." transform="translate(1178.414 1516.379)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Promoción.</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="39">Incluye las actividades </tspan><tspan x="0" y="63">de comunicación que </tspan><tspan x="0" y="87">informan y persuaden al </tspan><tspan x="0" y="111">consumidor.</tspan></tspan></text>
     </g>
     <path id="Trazado_1096789" data-name="Trazado 1096789" d="M296.736-9413v626H320" fill="none" stroke="#12263f" stroke-width="3"/>
     <path id="Trazado_1096790" data-name="Trazado 1096790" d="M296.736-9314.02h23.5" transform="translate(-0.236)" fill="none" stroke="#12263f" stroke-width="3"/>

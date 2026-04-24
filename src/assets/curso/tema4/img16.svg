@@ -56,7 +56,7 @@
     <clipPath id="clip-path-12">
       <rect id="Rectángulo_459949" data-name="Rectángulo 459949" width="40.188" height="63.375" fill="#ffa4c7"/>
     </clipPath>
-    <filter id="Elipse_11563" x="66.5" y="35.413" width="152" height="152" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_1097126" x="66.5" y="35.413" width="152" height="152" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-4"/>
       <feFlood flood-opacity="0.161"/>
@@ -85,7 +85,7 @@
       <path id="Trazado_1096887" data-name="Trazado 1096887" d="M0,104.394V21.961A22.139,22.139,0,0,1,22.157,0H170.35c12.276,0,22.6,10,22.6,21.961V82.623c0,11.965-10.319,21.771-22.6,21.771H0Z" fill="#feba30"/>
     </clipPath>
   </defs>
-  <g id="Grupo_1191771" data-name="Grupo 1191771" transform="translate(-270.832 8155.281)">
+  <g id="Grupo_1191768" data-name="Grupo 1191768" transform="translate(-270.832 8155.281)">
     <g id="Enmascarar_grupo_1119452" data-name="Enmascarar grupo 1119452" transform="translate(-6088.168 -1202.934) rotate(90)" clip-path="url(#clip-path)">
       <path id="Trazado_1096483" data-name="Trazado 1096483" d="M0,0H1293.014V350.725H0Z" transform="translate(-7001.348 -6683.083)" fill="url(#linear-gradient-5)"/>
       <g id="Grupo_1191687" data-name="Grupo 1191687" transform="translate(-5990.419 -6724)" opacity="0.04" style="mix-blend-mode: multiply;isolation: isolate">
@@ -263,7 +263,7 @@
           <rect x="0.5" y="0.5" width="246.522" height="96.137" rx="35.5" fill="none"/>
         </g>
       </g>
-      <text id="Preferencias_digitales:_estrategias_de_comercio_electrónico." data-name="Preferencias digitales: estrategias de comercio electrónico." transform="translate(461.493 -6907)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="18.148" y="15">Preferencias digitales: </tspan><tspan x="11.281" y="39">estrategias de comercio </tspan><tspan x="55.363" y="63">electrónico.</tspan></text>
+      <text id="Preferencias_digitales:_estrategias_de_comercio_electrónico." data-name="Preferencias digitales: estrategias de comercio electrónico." transform="translate(461.493 -6907)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.172" y="15">Preferencias digitales: </tspan><tspan x="11.281" y="39" font-family="Roboto-Regular, Roboto" font-weight="400">estrategias de comercio </tspan><tspan x="55.363" y="63" font-family="Roboto-Regular, Roboto" font-weight="400">electrónico.</tspan></text>
       <g id="Enmascarar_grupo_1119463" data-name="Enmascarar grupo 1119463" transform="translate(437.799 -6944.982)" clip-path="url(#clip-path-6)">
         <g id="Grupo_1191733" data-name="Grupo 1191733" transform="translate(59.074 45.228) rotate(180)" clip-path="url(#clip-path-7)">
           <path id="Trazado_1096974" data-name="Trazado 1096974" d="M0,56.664V11.92C0,5.426,5.095,0,11.425,0H87.84A11.914,11.914,0,0,1,99.491,11.92V44.847A11.824,11.824,0,0,1,87.84,56.664H0Z" transform="translate(0 -2.752)" fill="#feba30"/>
@@ -287,7 +287,7 @@
           <rect x="0.5" y="0.5" width="246.522" height="80.137" rx="35.5" fill="none"/>
         </g>
       </g>
-      <text id="Estilo_de_vida:_desarrollo_de_productos_especializados." data-name="Estilo de vida: desarrollo de productos especializados." transform="translate(458 -7025.777)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="5.84" y="15">Estilo de vida: desarrollo de </tspan><tspan x="10.122" y="39">productos especializados.</tspan></text>
+      <text id="Estilo_de_vida:_desarrollo_de_productos_especializados." data-name="Estilo de vida: desarrollo de productos especializados." transform="translate(458 -7025.777)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="4.852" y="15">Estilo de vida: </tspan><tspan y="15" font-family="Roboto-Regular, Roboto" font-weight="400">desarrollo de </tspan><tspan x="10.122" y="39" font-family="Roboto-Regular, Roboto" font-weight="400">productos especializados.</tspan></text>
       <g id="Enmascarar_grupo_1119464" data-name="Enmascarar grupo 1119464" transform="translate(444 -7067)" clip-path="url(#clip-path-8)">
         <g id="Enmascarar_grupo_1119462" data-name="Enmascarar grupo 1119462" transform="translate(-21.705 -3.764)" clip-path="url(#clip-path-9)">
           <path id="Trazado_1096951" data-name="Trazado 1096951" d="M78.665,0V40.871c0,5.932-4.028,10.888-9.033,10.888H9.212C4.207,51.759,0,46.8,0,40.871V10.794C0,4.862,4.207,0,9.212,0H78.665Z" transform="translate(0)" fill="#c2d723"/>
@@ -325,7 +325,7 @@
           <rect x="0.5" y="0.5" width="246.522" height="80.137" rx="35.5" fill="none"/>
         </g>
       </g>
-      <text id="Motivación:_diseño_de_mensajes_emocionales." data-name="Motivación: diseño de mensajes emocionales." transform="translate(458 -7147.522)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="25.387" y="15">Motivación: diseño de </tspan><tspan x="19.11" y="39">mensajes emocionales.</tspan></text>
+      <text id="Motivación:_diseño_de_mensajes_emocionales." data-name="Motivación: diseño de mensajes emocionales." transform="translate(458 -7147.522)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="24.555" y="15">Motivación: </tspan><tspan y="15" font-family="Roboto-Regular, Roboto" font-weight="400">diseño de </tspan><tspan x="19.11" y="39" font-family="Roboto-Regular, Roboto" font-weight="400">mensajes emocionales.</tspan></text>
       <g id="Enmascarar_grupo_1119465" data-name="Enmascarar grupo 1119465" transform="translate(443.593 -7180.567)" clip-path="url(#clip-path-11)">
         <g id="Grupo_1191729" data-name="Grupo 1191729" transform="translate(-2.111 -16.473)">
           <path id="Trazado_1096889" data-name="Trazado 1096889" d="M63,0V40.682c0,5.9-3.226,10.838-7.234,10.838H7.377C3.369,51.52,0,46.587,0,40.682V10.744C0,4.84,3.369,0,7.377,0H63Z" transform="translate(0 11.855)" fill="#ffa4c7"/>
@@ -396,8 +396,8 @@
         </g>
       </g>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 270.83, -8155.28)" filter="url(#Elipse_11563)">
-      <circle id="Elipse_11563-2" data-name="Elipse 11563" cx="67" cy="67" r="67" transform="translate(75.5 41.41)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 270.83, -8155.28)" filter="url(#Trazado_1097126)">
+      <path id="Trazado_1097126-2" data-name="Trazado 1097126" d="M67,0A67,67,0,1,1,0,67,67,67,0,0,1,67,0Z" transform="translate(75.5 41.41)" fill="#fff"/>
     </g>
     <g id="Grupo_1191737" data-name="Grupo 1191737" transform="translate(-163.395 -806.184)">
       <g id="Enmascarar_grupo_1119457" data-name="Enmascarar grupo 1119457" transform="translate(550.23 -7323.542)" clip-path="url(#clip-path-13)">

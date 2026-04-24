@@ -9,7 +9,7 @@
 
     .container
       .row.mb-3.justify-content-center.align-items-center
-        .bg-color-2.p-0
+        .bg-color-3.p-0
           .row.justify-content-center.align-items-center
             
             .col-lg-5.col-md-8.mb-3.mb-lg-0.mt-4.mt-lg-0
@@ -17,13 +17,13 @@
                 img(src="@/assets/curso/tema5/img01.png", data-aos="zoom-in")
 
             .col-lg-7.mb-0.mb-lg-0(data-aos="fade-right").p-5.p-lg-4
-              p.mb-3 El diseño de estrategias de marketing orientadas al consumidor constituye uno de los enfoques más relevantes en la gestión empresarial moderna, ya que coloca las necesidades, expectativas y experiencias del cliente en el centro de las decisiones organizacionales. Las empresas que adoptan este enfoque logran construir relaciones duraderas con sus clientes, incrementar la fidelización y fortalecer su posicionamiento competitivo.
+              p.mb-3 El diseño de estrategias de <em>marketing</em> orientadas al consumidor constituye uno de los enfoques más relevantes en la gestión empresarial moderna, ya que coloca las necesidades, expectativas y experiencias del cliente en el centro de las decisiones organizacionales. Las empresas que adoptan este enfoque logran construir relaciones duraderas con sus clientes, incrementar la fidelización y fortalecer su posicionamiento competitivo.
               p.mb-0 La formulación de estrategias centradas en el cliente requiere el análisis sistemático de la información del mercado, la identificación de segmentos con alto potencial y el desarrollo de propuestas de valor diferenciadas que respondan de manera efectiva a sus necesidades. En este capítulo se abordan los fundamentos de las estrategias centradas en el cliente y la construcción de propuestas de valor orientadas al mercado objetivo.
 
     separador
     
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.1 Estrategias de marketing orientadas al consumidor
+      h2 5.1 Formulación
 
     .row.mb-4.justify-content-center.align-items-center
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
@@ -41,7 +41,7 @@
         p.mb-3 La implementación de estrategias centradas en el cliente también implica el diseño de programas de servicio posventa, atención personalizada y comunicación continua con el consumidor. Estas acciones fortalecen la confianza del cliente y generan ventajas competitivas sostenibles.
 
         .cajon.bg-color-c2.p-4.mb-0
-          p.mb-0 Insight: las empresas que gestionan activamente la experiencia del cliente pueden incrementar la fidelización hasta en un 25 %.
+          p.mb-0 <b>Insight:</b> las empresas que gestionan activamente la experiencia del cliente pueden incrementar la fidelización hasta en un 25 %.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -109,7 +109,7 @@
             .col-lg
               p.mb-0 La construcción de una propuesta de valor requiere identificar claramente el segmento objetivo, comprender sus necesidades prioritarias y diseñar beneficios específicos que respondan a dichas expectativas. Por ejemplo, la empresa Tesla ha construido su propuesta de valor alrededor de la innovación tecnológica, la sostenibilidad ambiental y el alto desempeño de sus vehículos eléctricos, diferenciándose significativamente de la competencia.
 
-        p.mb-0 Una propuesta de valor efectiva debe comunicarse de manera clara en todas las acciones de marketing de la organización, incluyendo campañas publicitarias, diseño de productos, estrategias de precios y experiencia del cliente. Cuando las empresas alinean su propuesta de valor con las necesidades del consumidor, logran mayor preferencia de marca y posicionamiento competitivo.
+        p.mb-0 Una propuesta de valor efectiva debe comunicarse de manera clara en todas las acciones de <em>marketing</em> de la organización, incluyendo campañas publicitarias, diseño de productos, estrategias de precios y experiencia del cliente. Cuando las empresas alinean su propuesta de valor con las necesidades del consumidor, logran mayor preferencia de marca y posicionamiento competitivo.
 
 
         
@@ -120,8 +120,8 @@
             b Figura 4. 
             span Elementos de la propuesta de valor
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='La figura muestra los beneficios del estudio del consumidor en el marketing. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='La figura muestra los beneficios del estudio del consumidor en el marketing. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='Beneficio funcional. Solución concreta a una necesidad. Beneficio emocional. Experiencia positiva del consumidor. Diferenciación. Elementos únicos frente a la competencia. Evidencia de valor. Garantías, certificaciones, testimonios.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='Beneficio funcional. Solución concreta a una necesidad. Beneficio emocional. Experiencia positiva del consumidor. Diferenciación. Elementos únicos frente a la competencia. Evidencia de valor. Garantías, certificaciones, testimonios.').mx-auto
 
         figcaption 
           b Nota. 
@@ -139,8 +139,8 @@
               .row.justify-content-center.align-items-center
                 .col-lg.mb-3.mb-lg-0
                   p.mb-0 Lo invitamos a ver el siguiente video educativo por medio del cual podrá profundizar en temática desarrollada.
-                  p.mb-0 Propuesta de valor
-                  p.mb-0 Descripción: este video presenta el concepto de propuesta de valor y el proceso básico de diseño, destacando cómo las empresas pueden solucionar necesidades o problemas reales de los clientes para generar preferencia, fidelidad y diferenciación competitiva. Se mencionan ejemplos y explicaciones didácticas que facilitan su aplicación práctica en la formulación de estrategias de marketing.
+                  p.mb-0 <b>Propuesta de valor</b>
+                  p.mb-0 Descripción: este video presenta el concepto de propuesta de valor y el proceso básico de diseño, destacando cómo las empresas pueden solucionar necesidades o problemas reales de los clientes para generar preferencia, fidelidad y diferenciación competitiva. Se mencionan ejemplos y explicaciones didácticas que facilitan su aplicación práctica en la formulación de estrategias de <em>marketing</em>.
  
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zeih25sCGfw" target="_blank")
@@ -161,7 +161,7 @@
               .bloque-texto-b.p-0
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h5.mb-0
+                  h5.mb-0.text-bold
                     | Las estrategias que se construyen con honestidad hacia el cliente reflejan la integridad con la que una organización entiende su responsabilidad social.
                   i.fas.fa-quote-right
 

@@ -18,9 +18,9 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Decisiones estratégicas de marketing',
-      titulo: 'Cuestionario',
+      titulo: 'Decisiones estratégicas de marketing',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión del análisis del consumidor y su aplicación en el diseño de estrategias de marketing.',
+        '<b> Objetivo:</b> verificar la comprensión del análisis del consumidor y su aplicación en el diseño de estrategias de <em>marketing</em>.',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -101,7 +101,7 @@ export default {
         {
           id: 6,
           texto:
-            'La mezcla de marketing está compuesta por producto, precio, plaza y promoción.',
+            'La mezcla de <em>marketing</em> está compuesta por producto, precio, plaza y promoción.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -116,7 +116,7 @@ export default {
         {
           id: 7,
           texto:
-            'Las estrategias de marketing deben diseñarse sin considerar el comportamiento del consumidor.',
+            'Las estrategias de <em>marketing</em> deben diseñarse sin considerar el comportamiento del consumidor.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -221,7 +221,7 @@ export default {
         {
           id: 14,
           texto:
-            'El precio es el único elemento que determina el éxito de una estrategia de marketing.',
+            'El precio es el único elemento que determina el éxito de una estrategia de <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -236,7 +236,7 @@ export default {
         {
           id: 15,
           texto:
-            'La personalización de estrategias mejora la efectividad del marketing orientado al consumidor.',
+            'La personalización de estrategias mejora la efectividad del <em>marketing</em> orientado al consumidor.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -296,7 +296,7 @@ export default {
         {
           id: 19,
           texto:
-            'Las estrategias de marketing deben adaptarse a los diferentes segmentos del mercado.',
+            'Las estrategias de <em>marketing</em> deben adaptarse a los diferentes segmentos del mercado.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -311,7 +311,7 @@ export default {
         {
           id: 20,
           texto:
-            'El esquema estratégico base del plan de marketing integra análisis del consumidor y objetivos comerciales.',
+            'El esquema estratégico base del plan de <em>marketing</em> integra análisis del consumidor y objetivos comerciales.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/tema1/img01.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-0(data-aos="fade-right") El comportamiento del consumidor constituye uno de los pilares fundamentales del marketing estratégico, ya que permite comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra dentro de un contexto social y económico específico. El análisis de estos procesos facilita a las organizaciones diseñar productos, servicios y estrategias de comunicación alineadas con las expectativas del mercado. En la actualidad, la disponibilidad de datos de consumo y herramientas de analítica avanzada ha fortalecido la capacidad empresarial para interpretar patrones de comportamiento y anticipar tendencias del mercado, generando ventajas competitivas sostenibles (Kotler & Keller, 2016).
+        p.mb-0(data-aos="fade-right") El comportamiento del consumidor constituye uno de los pilares fundamentales del <em>marketing</em> estratégico, ya que permite comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra dentro de un contexto social y económico específico. El análisis de estos procesos facilita a las organizaciones diseñar productos, servicios y estrategias de comunicación alineadas con las expectativas del mercado. En la actualidad, la disponibilidad de datos de consumo y herramientas de analítica avanzada ha fortalecido la capacidad empresarial para interpretar patrones de comportamiento y anticipar tendencias del mercado, generando ventajas competitivas sostenibles (Kotler & Keller, 2016).
 
     separador
     
@@ -50,7 +50,7 @@
               figure
                 img(src="@/assets/curso/tema1/img04.svg", data-aos="zoom-in").w-50.mx-auto
             .col-lg-12
-              p.mb-0.text-center Psicológicos
+              p.mb-0.text-center <b>Psicológicos</b>
               p.mb-0.text-center Motivaciones, percepciones, aprendizaje y actitudes que orientan la decisión de compra.
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-fondo-2.p-4.h-100
@@ -59,7 +59,7 @@
               figure
                 img(src="@/assets/curso/tema1/img05.svg", data-aos="zoom-in").w-50.mx-auto
             .col-lg-12
-              p.mb-0.text-center Sociales
+              p.mb-0.text-center <b>Sociales</b>
               p.mb-0.text-center Influencia de familia, grupos de referencia y roles sociales.
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-fondo-2.p-4.h-100
@@ -68,7 +68,7 @@
               figure
                 img(src="@/assets/curso/tema1/img06.svg", data-aos="zoom-in").w-50.mx-auto
             .col-lg-12
-              p.mb-0.text-center Culturales
+              p.mb-0.text-center <b>Culturales</b>
               p.mb-0.text-center Valores, tradiciones y normas sociales que condicionan el consumo.
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-fondo-2.p-4.h-100
@@ -77,10 +77,10 @@
               figure
                 img(src="@/assets/curso/tema1/img07.svg", data-aos="zoom-in").w-50.mx-auto
             .col-lg-12
-              p.mb-0.text-center Personales
+              p.mb-0.text-center <b>Personales</b>
               p.mb-0.text-center Edad, ocupación, ingresos y estilo de vida.
 
-    sena-separador
+    separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Importancia
@@ -99,7 +99,7 @@
                 .col-lg-auto.mb-3
                   img.d-none.d-lg-flex(src="@/assets/curso/tema1/img09.svg").mx-auto
                 .col-lg-12
-                  p.mb-0 El estudio del consumidor constituye un elemento esencial en el marketing moderno, ya que permite comprender las necesidades, expectativas y motivaciones que orientan las decisiones de compra. Las organizaciones que investigan sistemáticamente el comportamiento de sus clientes pueden diseñar productos y servicios alineados con las demandas del mercado, incrementando la probabilidad de aceptación comercial y fortaleciendo su posicionamiento competitivo. Este conocimiento se convierte en un insumo estratégico para la formulación de planes de marketing efectivos.
+                  p.mb-0 El estudio del consumidor constituye un elemento esencial en el <em>marketing</em> moderno, ya que permite comprender las necesidades, expectativas y motivaciones que orientan las decisiones de compra. Las organizaciones que investigan sistemáticamente el comportamiento de sus clientes pueden diseñar productos y servicios alineados con las demandas del mercado, incrementando la probabilidad de aceptación comercial y fortaleciendo su posicionamiento competitivo. Este conocimiento se convierte en un insumo estratégico para la formulación de planes de <em>marketing</em> efectivos.
         
     .row.align-items-center.mb-5
       .col-lg-auto
@@ -113,10 +113,10 @@
         .titulo-sexto.mb-4.color-acento-contenido
           h5 
             b Figura 1. 
-            span Beneficios del estudio del consumidor en el marketing
+            span Beneficios del estudio del consumidor en el <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='La figura muestra los beneficios del estudio del consumidor en el marketing. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.svg', alt='La figura muestra los beneficios del estudio del consumidor en el marketing. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='Mejora del posicionamiento. Permite diseñar estrategias alineadas con las necesidades del cliente. Segmentación efectiva. Facilita la identificación de grupos de consumidores homogéneos. Innovación de productos. Detecta nuevas necesidades y tendencias del mercado. Fidelización del cliente. Permite fortalecer la relación empresa-consumidor. ').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.png', alt='Mejora del posicionamiento. Permite diseñar estrategias alineadas con las necesidades del cliente. Segmentación efectiva. Facilita la identificación de grupos de consumidores homogéneos. Innovación de productos. Detecta nuevas necesidades y tendencias del mercado. Fidelización del cliente. Permite fortalecer la relación empresa-consumidor. ').mx-auto
 
         figcaption 
           b Nota. 
@@ -132,7 +132,7 @@
         figure
           img(src="@/assets/curso/tema1/img15.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") El proceso de decisión de compra comprende las etapas que atraviesa el consumidor desde el reconocimiento de una necesidad hasta la evaluación posterior a la compra. Este proceso incluye identificación del problema, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento posterior al consumo (Armstrong & Kotler, 2017). Comprender cada etapa permite a las empresas intervenir estratégicamente mediante acciones de marketing orientadas a influir en la elección del consumidor.
+        p.mb-3(data-aos="fade-right") El proceso de decisión de compra comprende las etapas que atraviesa el consumidor desde el reconocimiento de una necesidad hasta la evaluación posterior a la compra. Este proceso incluye identificación del problema, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento posterior al consumo (Armstrong & Kotler, 2017). Comprender cada etapa permite a las empresas intervenir estratégicamente mediante acciones de <em>marketing</em> orientadas a influir en la elección del consumidor.
 
         .container
           .row.align-items-center.bg-color-5.p-4.mb-0.br-15
@@ -142,46 +142,46 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img16.svg").mx-auto
 
 
-    .row.justify-content-center.align-items-stretch.mb-3(data-aos="fade-right")
-      .col-lg-4.col-md-6.mb-0.mb-lg-0
-        .p-2.h-100
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15.h-100
+    .row.mb-3.justify-content-center(data-aos="fade-right")
+      .col-lg-4.col-md-6.mb-3.mb-lg-3
+        .bg-color-2.p-4.mb-0.br-15.h-100
+          .row.align-items-center
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img17.svg").mx-auto
             .col-lg
-              p.mb-1 Reconocimiento de la necesidad
+              p.mb-1 <b>Reconocimiento de la necesidad</b>
               p.mb-0 Identificación de un problema o deseo a satisfacer.
       .col-lg-4.col-md-6.mb-3.mb-lg-3
-        .p-2.h-100
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15.h-100
+        .bg-color-2.p-4.mb-0.br-15.h-100
+          .row.align-items-center
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img18.svg").mx-auto
             .col-lg
-              p.mb-1 Búsqueda de información
+              p.mb-1 <b>Búsqueda de información</b>
               p.mb-0 Consulta de fuentes personales, comerciales y digitales.
       .col-lg-4.col-md-6.mb-3.mb-lg-3
-        .p-2.h-100
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15.h-100
+        .bg-color-2.p-4.mb-0.br-15.h-100
+          .row.align-items-center
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img19.svg").mx-auto
             .col-lg
-              p.mb-1 Evaluación de alternativas
+              p.mb-1 <b>Evaluación de alternativas</b>
               p.mb-0 Comparación de opciones disponibles.
-      .col-lg-4.col-md-6.mb-3.mb-lg-3 
-        .p-2.h-100
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15.h-100
+      .col-lg-4.col-md-6.mb-3.mb-lg-3
+        .bg-color-2.p-4.mb-0.br-15.h-100
+          .row.align-items-center
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img20.svg").mx-auto
             .col-lg
-              p.mb-1 Decisión de compra
+              p.mb-1 <b>Decisión de compra</b>
               p.mb-0 Selección del producto o servicio.
       .col-lg-4.col-md-6.mb-3.mb-lg-3
-        .p-2.h-100
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15.h-100
+        .bg-color-2.p-4.mb-0.br-15.h-100
+          .row.align-items-center
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img21.svg").mx-auto
             .col-lg
-              p.mb-1 Evaluación posterior
+              p.mb-1 <b>Evaluación posterior</b>
               p.mb-0 Nivel de satisfacción y fidelización.
 
     separador
@@ -209,7 +209,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img23.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Ejemplo aplicado. Un ejemplo empresarial se observa en el sector de alimentos de consumo masivo, donde empresas como Coca-Cola orientan sus estrategias hacia el posicionamiento emocional y la repetición publicitaria para fortalecer el comportamiento de compra habitual, mientras que empresas del sector automotriz implementan estrategias de información detallada y asesoría especializada dirigidas al comportamiento complejo de compra.
+            p.mb-0 <b>Ejemplo aplicado.</b> Un ejemplo empresarial se observa en el sector de alimentos de consumo masivo, donde empresas como Coca-Cola orientan sus estrategias hacia el posicionamiento emocional y la repetición publicitaria para fortalecer el comportamiento de compra habitual, mientras que empresas del sector automotriz implementan estrategias de información detallada y asesoría especializada dirigidas al comportamiento complejo de compra.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -224,7 +224,7 @@
               .bloque-texto-b.p-0
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h5.mb-0
+                  h5.mb-0.text-bold
                     | La comprensión del consumidor no solo fortalece la estrategia empresarial, 
                     | también invita a actuar con responsabilidad y ética frente a las necesidades de las personas.
                   i.fas.fa-quote-right

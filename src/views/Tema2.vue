@@ -33,7 +33,7 @@
           .row.align-items-center
             .col-lg.p-0 
               .bg-color-5.p-4.mb-0.br-15
-                p.mb-0 El presente capítulo aborda las principales variables que inciden en el comportamiento del consumidor, analizando sus características, su impacto en la toma de decisiones y su aplicación práctica en la gestión empresarial. Asimismo, se examina el papel de los entornos digitales en la transformación de los hábitos de consumo, aspecto clave en el marketing contemporáneo.
+                p.mb-0 El presente capítulo aborda las principales variables que inciden en el comportamiento del consumidor, analizando sus características, su impacto en la toma de decisiones y su aplicación práctica en la gestión empresarial. Asimismo, se examina el papel de los entornos digitales en la transformación de los hábitos de consumo, aspecto clave en el <em>marketing</em> contemporáneo.
 
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/img04.svg").mx-auto
@@ -51,7 +51,7 @@
               .col-lg-auto
                 img.d-none.d-lg-flex(src="@/assets/curso/tema2/img05.svg").mx-auto
               .col-lg.p-0 
-                p.mb-0 Desde la perspectiva del marketing, comprender las variables culturales permite diseñar estrategias comerciales alineadas con los contextos socioculturales del mercado objetivo, evitando errores de posicionamiento y facilitando la conexión emocional con los consumidores. Las empresas multinacionales suelen adaptar mensajes publicitarios, empaques y propuestas de valor de acuerdo con las características culturales de cada región, lo que demuestra la relevancia estratégica de este tipo de variables en la planificación comercial.
+                p.mb-0 Desde la perspectiva del <em>marketing</em>, comprender las variables culturales permite diseñar estrategias comerciales alineadas con los contextos socioculturales del mercado objetivo, evitando errores de posicionamiento y facilitando la conexión emocional con los consumidores. Las empresas multinacionales suelen adaptar mensajes publicitarios, empaques y propuestas de valor de acuerdo con las características culturales de cada región, lo que demuestra la relevancia estratégica de este tipo de variables en la planificación comercial.
 
       .col-lg-3.col-md-8
         figure
@@ -71,7 +71,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img08.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Ejemplo aplicado. La empresa McDonald’s adapta su menú según las características culturales de cada país. En India ofrece productos sin carne de res por razones culturales y religiosas, mientras que en Colombia incorpora productos con sabores locales, fortaleciendo la aceptación del consumidor.
+            p.mb-0 <b>Ejemplo aplicado.</b> La empresa McDonald’s adapta su menú según las características culturales de cada país. En India ofrece productos sin carne de res por razones culturales y religiosas, mientras que en Colombia incorpora productos con sabores locales, fortaleciendo la aceptación del consumidor.
 
     separador
     
@@ -100,8 +100,8 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Edad", col="col-sm-4 col-md-4")
             .row.align-items-center.justify-content-center
               .col-lg-6.mb-4.mb-lg-0
-                p.mb-0 Etapas del ciclo de vida.
-                p.mb-0 Impacto en marketing: define necesidades específicas.
+                p.mb-0 <b>Etapas del ciclo de vida.</b>
+                p.mb-0 Impacto en <em>marketing</em>: define necesidades específicas.
                 p.mb-0 Ejemplo: productos infantiles o senior.
               .col-lg-6.col-md-8.alig
                 figure
@@ -109,8 +109,8 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Ingreso")
             .row.align-items-center.justify-content-center
               .col-lg-6.mb-4.mb-lg-0
-                p.mb-0 Capacidad adquisitiva.
-                p.mb-0 Impacto en marketing: determina niveles de precio.
+                p.mb-0 <b>Capacidad adquisitiva.</b>
+                p.mb-0 Impacto en <em>marketing</em>: determina niveles de precio.
                 p.mb-0 Ejemplo: segmentación económica.
               .col-lg-6.col-md-8
                 figure
@@ -118,8 +118,8 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Ocupación")
             .row.align-items-center.justify-content-center
               .col-lg-6.mb-4.mb-lg-0
-                p.mb-0 Actividad laboral.
-                p.mb-0 Impacto en marketing: influye en estilo de consumo.
+                p.mb-0 <b>Actividad laboral.</b>
+                p.mb-0 Impacto en <em>marketing</em>: influye en estilo de consumo.
                 p.mb-0 Ejemplo: equipos profesionales especializados.
               .col-lg-6.col-md-8
                 figure
@@ -127,8 +127,8 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Estilo de vida")
             .row.align-items-center.justify-content-center
               .col-lg-6.mb-4.mb-lg-0
-                p.mb-0 Actividades e intereses.
-                p.mb-0 Impacto en marketing: permite personalización.
+                p.mb-0 <b>Actividades e intereses.</b>
+                p.mb-0 Impacto en <em>marketing</em>: permite personalización.
                 p.mb-0 Ejemplo: productos fitness o tecnológicos.
               .col-lg-6.col-md-8
                 figure
@@ -154,7 +154,7 @@
         figure
           img(src="@/assets/curso/tema2/img17.png", data-aos="zoom-in")
 
-    p.mb-4 El aprendizaje y las actitudes también desempeñan un papel fundamental en el comportamiento del consumidor, ya que las experiencias de consumo previas influyen en la formación de preferencias y lealtad hacia las marcas. Las empresas utilizan estrategias de marketing experiencial, programas de fidelización y servicio al cliente para generar experiencias positivas que fortalezcan la relación con el consumidor.
+    p.mb-4 El aprendizaje y las actitudes también desempeñan un papel fundamental en el comportamiento del consumidor, ya que las experiencias de consumo previas influyen en la formación de preferencias y lealtad hacia las marcas. Las empresas utilizan estrategias de <em>marketing</em> experiencial, programas de fidelización y servicio al cliente para generar experiencias positivas que fortalezcan la relación con el consumidor.
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -165,31 +165,31 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-5")
           div(titulo="Motivación")
             p.ms-5 Impulsos que orientan la compra.
-            p.ms-5 Impacto en marketing: define propuestas de valor.
+            p.ms-5 Impacto en <em>marketing</em>: define propuestas de valor.
             p.ms-5 Ejemplo: productos saludables por bienestar.
           div(titulo="Percepción")
             p.ms-5 Interpretación de estímulos.
-            p.ms-5 Impacto en marketing: influye en posicionamiento. 
+            p.ms-5 Impacto en <em>marketing</em>: influye en posicionamiento. 
             p.ms-5 Ejemplo: diseño de empaques atractivos.
           div(titulo="Aprendizaje")
             p.ms-5 Experiencias previas.
-            p.ms-5 Impacto en marketing: genera fidelización. 
+            p.ms-5 Impacto en <em>marketing</em>: genera fidelización. 
             p.ms-5 Ejemplo: programas de recompensas.
           div(titulo="Actitudes")
             p.ms-5 Evaluaciones favorables o desfavorables. 
-            p.ms-5 Impacto en marketing: determinan preferencia de marca.
+            p.ms-5 Impacto en <em>marketing</em>: determinan preferencia de marca.
             p.ms-5 Ejemplo: opiniones positivas del cliente.
 
     .row.mb-3.justify-content-center.align-items-center
       .col-lg-10
         .cajon.bg-color-c1.p-4.mb-0
-          p.mb-0 Pregunta de aplicación ¿Qué estrategias podría aplicar una empresa para modificar percepciones negativas hacia su marca?
+          p.mb-0 <b>Pregunta de aplicación.</b> ¿Qué estrategias podría aplicar una empresa para modificar percepciones negativas hacia su marca?
 
 
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 Entorno digitales
+      h2 2.4 Entornos digitales
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-9.mb-3.mb-lg-0
@@ -199,7 +199,7 @@
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema2/img19.svg").mx-auto
               .col-lg.p-2
-                p.mb-0 Los consumidores actuales participan activamente en entornos digitales, consultando opiniones de otros usuarios, revisando reseñas y comparando precios en tiempo real antes de realizar una compra. Este comportamiento ha incrementado la importancia del marketing digital, obligando a las organizaciones a desarrollar estrategias de posicionamiento en línea, gestión de reputación digital y experiencias omnicanal que integren canales físicos y virtuales.
+                p.mb-0 Los consumidores actuales participan activamente en entornos digitales, consultando opiniones de otros usuarios, revisando reseñas y comparando precios en tiempo real antes de realizar una compra. Este comportamiento ha incrementado la importancia del <em>marketing</em> digital, obligando a las organizaciones a desarrollar estrategias de posicionamiento en línea, gestión de reputación digital y experiencias omnicanal que integren canales físicos y virtuales.
                 
       .col-lg-3.col-md-8
         figure
@@ -224,7 +224,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg.mb-3.mb-lg-0
                   p.mb-0 A continuación, un video donde se aprecia el comportamiento del consumidor.
-                  p.mb-0 Comportamiento del consumidor
+                  p.mb-0 <b>Comportamiento del consumidor</b>
                   p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se expone el comportamiento del consumidor en el entorno de mercadeo digital.
  
                 .col-lg-auto.text-center
@@ -241,7 +241,7 @@
               .bloque-texto-b.p-0
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h5.mb-0
+                  h5.mb-0.text-bold
                     | La integridad en las decisiones personales también se refleja en las decisiones de consumo, porque elegir conscientemente implica responsabilidad social y ética.
                   i.fas.fa-quote-right
             .col-lg-auto

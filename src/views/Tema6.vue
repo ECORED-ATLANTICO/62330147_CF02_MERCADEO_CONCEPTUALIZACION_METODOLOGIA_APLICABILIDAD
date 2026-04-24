@@ -11,14 +11,14 @@
       img(src="@/assets/curso/tema6/img01.png", alt="Imagen decorativa")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text La integración entre el análisis del consumidor y el diseño estratégico de marketing representa el punto en el que la información obtenida del mercado se transforma en decisiones empresariales concretas. Las organizaciones que logran convertir los datos del comportamiento del consumidor en estrategias estructuradas obtienen ventajas competitivas sostenibles, debido a que sus acciones comerciales responden a necesidades reales del mercado.
+        p.banner-text La integración entre el análisis del consumidor y el diseño estratégico de <em>marketing</em> representa el punto en el que la información obtenida del mercado se transforma en decisiones empresariales concretas. Las organizaciones que logran convertir los datos del comportamiento del consumidor en estrategias estructuradas obtienen ventajas competitivas sostenibles, debido a que sus acciones comerciales responden a necesidades reales del mercado.
         
 
     .row.align-items-center.mb-3
       .col-lg-auto
         img.d-none.d-lg-flex(src="@/assets/curso/tema6/img02.svg").mx-auto
       .col-lg
-        p.mb-0 En este capítulo se estudia la relación entre el análisis del consumidor y las decisiones estratégicas, la construcción de propuestas estratégicas de mercadeo y la preparación del esquema estratégico base para el plan de marketing, integrando ejemplos empresariales, casos aplicados y herramientas prácticas que facilitan la aplicación del conocimiento en contextos organizacionales.
+        p.mb-0 En este capítulo se estudia la relación entre el análisis del consumidor y las decisiones estratégicas, la construcción de propuestas estratégicas de mercadeo y la preparación del esquema estratégico base para el plan de <em>marketing</em>, integrando ejemplos empresariales, casos aplicados y herramientas prácticas que facilitan la aplicación del conocimiento en contextos organizacionales.
 
     separador
 
@@ -26,12 +26,12 @@
       h2 6.1 Decisiones estratégicas
 
     .row.mb-4.justify-content-center.align-items-center
-      .bloque-texto-g.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema6/img03.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 El análisis del consumidor constituye la base informativa sobre la cual se diseñan las decisiones estratégicas de marketing, ya que permite comprender necesidades, preferencias y patrones de comportamiento que orientan la formulación de productos, precios, canales y estrategias de comunicación. Cuando las organizaciones utilizan información confiable del consumidor, reducen la incertidumbre en la toma de decisiones comerciales.
+          p.mb-0 El análisis del consumidor constituye la base informativa sobre la cual se diseñan las decisiones estratégicas de <em>marketing</em>, ya que permite comprender necesidades, preferencias y patrones de comportamiento que orientan la formulación de productos, precios, canales y estrategias de comunicación. Cuando las organizaciones utilizan información confiable del consumidor, reducen la incertidumbre en la toma de decisiones comerciales.
 
 
     .row.mb-3.justify-content-center.align-items-center
@@ -41,7 +41,7 @@
 
       .col-lg-10.col-md-12
         .cajon.bg-color-c3.p-4.mb-0
-          p.mb-0 Insight. las empresas que integran analítica de clientes en la planificación estratégica aumentan la efectividad de sus campañas comerciales.
+          p.mb-0 <b>Insight.</b> las empresas que integran analítica de clientes en la planificación estratégica aumentan la efectividad de sus campañas comerciales.
 
     separador
 
@@ -56,7 +56,7 @@
         p.mb-3(data-aos="fade-right") La construcción de propuestas estratégicas de mercadeo implica definir acciones organizadas orientadas al logro de objetivos comerciales, teniendo en cuenta el análisis del mercado, la segmentación y el posicionamiento del producto, estas propuestas establecen el rumbo de las actividades comerciales y orientan la asignación de recursos empresariales.
 
         .container.mb-4
-          .row.align-items-center.bg-color-2.p-4.mb-0.br-15
+          .row.align-items-center.bg-color-3.p-4.mb-0.br-15
             .col-lg
               p.mb-0 En el entorno empresarial, las propuestas estratégicas se elaboran mediante el análisis de oportunidades de mercado, el estudio de la competencia y la evaluación de capacidades organizacionales. Por ejemplo, una empresa de servicios financieros puede diseñar una estrategia orientada al segmento de jóvenes emprendedores mediante productos de crédito flexibles y campañas digitales especializadas.
             .col-lg-auto
@@ -67,7 +67,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/tema3/img10.svg")
-        h3.titulo-con-imagen__texto xxxxxx
+        h3.titulo-con-imagen__texto Componentes de una propuesta estratégica de mercadeo
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5
       .py-4.px-lg-0
@@ -89,7 +89,7 @@
                 img(src="@/assets/curso/tema6/img07.png", alt="Crema pastelera").mx-auto
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 Estrategias de marketing	
+              h4.mb-3 Estrategias de <em>marketing</em>	
               p.mb-0 Conjunto de decisiones tácticas y estratégicas relacionadas con el diseño del producto o servicio, la política de precios, los canales de distribución y las acciones de comunicación y promoción, orientadas a satisfacer las necesidades del mercado objetivo y generar diferenciación competitiva.
 
             .col-md-8.col-lg-5
@@ -98,7 +98,7 @@
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               h4.mb-3 Indicadores de gestión	
-              p.mb-0 Métricas cuantificables utilizadas para medir el desempeño de las estrategias implementadas, tales como crecimiento de ventas, tasa de conversión, participación de mercado, retorno de inversión en marketing (ROI) y niveles de satisfacción del cliente.
+              p.mb-0 Métricas cuantificables utilizadas para medir el desempeño de las estrategias implementadas, tales como crecimiento de ventas, tasa de conversión, participación de mercado, retorno de inversión en <em>marketing</em> (ROI) y niveles de satisfacción del cliente.
 
             .col-md-8.col-lg-5
               figure
@@ -114,7 +114,7 @@
             .col-lg
               .row.justify-content-center.align-items-center
                 .col-lg.mb-4.mb-lg-0
-                  p.mb-0 Veamos un ejemplo de una propuesta estratégica: 
+                  p.mb-0 <b>Veamos un ejemplo de una propuesta estratégica:</b> 
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zeih25sCGfw" target="_blank")
                     span Ver PDF
@@ -124,18 +124,18 @@
     separador
 
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 6.3 Plan de marketing
+      h2 6.3 Plan de mercadeo
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema6/img11.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") El esquema estratégico base del plan de marketing corresponde al documento estructurado que sintetiza la información del mercado, la segmentación del consumidor, los objetivos comerciales y las estrategias que la empresa implementará para alcanzar sus metas, este esquema sirve como guía de acción para la gestión comercial organizacional.
+        p.mb-3(data-aos="fade-right") El esquema estratégico base del plan de <em>marketing</em> corresponde al documento estructurado que sintetiza la información del mercado, la segmentación del consumidor, los objetivos comerciales y las estrategias que la empresa implementará para alcanzar sus metas, este esquema sirve como guía de acción para la gestión comercial organizacional.
     
         .row.align-items-center.mb-0.br-15
           .col-lg
-            p.mb-0 La preparación del esquema estratégico implica consolidar información del diagnóstico del mercado, análisis del consumidor, evaluación de la competencia y definición de estrategias de marketing, su elaboración facilita la coordinación de las acciones de marketing, permite monitorear resultados y favorece la toma de decisiones oportunas para ajustar las estrategias comerciales según la evolución del mercado.
+            p.mb-0 La preparación del esquema estratégico implica consolidar información del diagnóstico del mercado, análisis del consumidor, evaluación de la competencia y definición de estrategias de <em>marketing</em>, su elaboración facilita la coordinación de las acciones de <em>marketing</em>, permite monitorear resultados y favorece la toma de decisiones oportunas para ajustar las estrategias comerciales según la evolución del mercado.
 
           .col-lg-auto
             img.d-none.d-lg-flex(src="@/assets/curso/tema6/img12.svg").mx-auto
@@ -153,8 +153,8 @@
               .row.justify-content-center.align-items-center
                 .col-lg.mb-4.mb-lg-0
                   p.mb-0 Lo invitamos a ver el siguiente video educativo por medio del cual podrá profundizar en temática desarrollada.
-                  p.mb-0 Plan de marketing digital
-                  p.mb-0 Descripción: este video del Sistema de Recursos Educativos Digitales SENA presenta los pasos para elaborar un plan de marketing digital.
+                  p.mb-0 <b>Plan de <em>marketing</em> digital</b>
+                  p.mb-0 Descripción: este video del Sistema de Recursos Educativos Digitales SENA presenta los pasos para elaborar un plan de <em>marketing</em> digital.
  
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=owxaHr0-5kQ" target="_blank")
@@ -174,7 +174,7 @@
               .bloque-texto-b.p-0
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h5.mb-0
+                  h5.mb-0.text-bold
                     | Las decisiones estratégicas responsables se construyen cuando el conocimiento del consumidor se combina con la integridad en la gestión empresarial.                 
                   i.fas.fa-quote-right
 

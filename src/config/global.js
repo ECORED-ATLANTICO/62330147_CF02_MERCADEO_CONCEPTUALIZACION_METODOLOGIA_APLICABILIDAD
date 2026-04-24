@@ -2,13 +2,13 @@ export default {
   global: {
     Name: 'Consumidor y estrategias de mercadeo',
     Description:
-      'El componente formativo desarrolla el análisis del comportamiento del consumidor y su aplicación en la formulación de estrategias de marketing orientadas al mercado objetivo. Integra variables del consumidor, segmentación psicográfica y diseño estratégico, permitiendo al aprendiz comprender cómo transformar la información del mercado en decisiones comerciales efectivas.',
+      'El componente formativo desarrolla el análisis del comportamiento del consumidor y su aplicación en la formulación de estrategias de <em>marketing</em> orientadas al mercado objetivo. Integra variables del consumidor, segmentación psicográfica y diseño estratégico, permitiendo al aprendiz comprender cómo transformar la información del mercado en decisiones comerciales efectivas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
@@ -120,7 +120,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Estrategias de marketing',
+        titulo: 'Estrategias de <em>marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -257,21 +257,21 @@ export default {
         'Beneficios diferenciados que una empresa ofrece al mercado objetivo.',
     },
     {
-      termino: 'Marketing estratégico',
+      termino: '<em>Marketing</em> estratégico',
       significado:
         'Planificación de acciones comerciales orientadas a objetivos organizacionales.',
     },
     {
       termino: 'Mercado objetivo',
       significado:
-        'Segmento seleccionado al que se dirigen las estrategias de marketing.',
+        'Segmento seleccionado al que se dirigen las estrategias de <em>marketing</em>.',
     },
     {
       termino: 'Posicionamiento',
       significado: 'Lugar que ocupa una marca en la mente del consumidor.',
     },
     {
-      termino: 'Mezcla de marketing',
+      termino: 'Mezcla de <em>marketing</em>',
       significado: 'Conjunto de variables producto, precio, plaza y promoción.',
     },
     {
@@ -324,14 +324,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -339,9 +340,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nicolas Cruz Ríos',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Enrique Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
         },
       ],
     },
@@ -349,19 +355,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -369,14 +380,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
