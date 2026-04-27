@@ -100,8 +100,8 @@
             b Figura 2. 
             span Elementos de la mezcla de <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema4/img10.svg', alt='4P. Producto: representa la oferta que satisface una necesidad del consumidor. Precio: define el valor económico percibido por el cliente. Plaza: canales de distribución que facilitan la disponibilidad del producto. Promoción: incluye las actividades de comunicación que informan y persuaden al consumidor.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema4/img11.svg', alt='4P. Producto: representa la oferta que satisface una necesidad del consumidor. Precio: define el valor económico percibido por el cliente. Plaza: canales de distribución que facilitan la disponibilidad del producto. Promoción: incluye las actividades de comunicación que informan y persuaden al consumidor.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema4/img10.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema4/img11.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P.').mx-auto
 
         figcaption 
           b Nota. 
@@ -142,8 +142,8 @@
             b Figura 3. 
             span Variables del consumidor aplicadas al <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema4/img15.svg', alt='Motivación, diseño de mensajes emocionales. Estilo de vida, desarrollo de productos especializados. Preferencias digitales, estrategias de comercio electrónico.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema4/img16.svg', alt='Motivación, diseño de mensajes emocionales. Estilo de vida, desarrollo de productos especializados. Preferencias digitales, estrategias de comercio electrónico.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema4/img15.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema4/img16.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing.').mx-auto
 
         figcaption 
           b Nota. 

@@ -120,8 +120,8 @@
             b Figura 4. 
             span Elementos de la propuesta de valor
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='Beneficio funcional. Solución concreta a una necesidad. Beneficio emocional. Experiencia positiva del consumidor. Diferenciación. Elementos únicos frente a la competencia. Evidencia de valor. Garantías, certificaciones, testimonios.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='Beneficio funcional. Solución concreta a una necesidad. Beneficio emocional. Experiencia positiva del consumidor. Diferenciación. Elementos únicos frente a la competencia. Evidencia de valor. Garantías, certificaciones, testimonios.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor.').mx-auto
 
         figcaption 
           b Nota. 

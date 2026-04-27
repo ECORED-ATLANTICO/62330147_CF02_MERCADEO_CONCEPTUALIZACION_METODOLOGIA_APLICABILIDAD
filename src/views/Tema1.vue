@@ -115,8 +115,8 @@
             b Figura 1. 
             span Beneficios del estudio del consumidor en el <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='Mejora del posicionamiento. Permite diseñar estrategias alineadas con las necesidades del cliente. Segmentación efectiva. Facilita la identificación de grupos de consumidores homogéneos. Innovación de productos. Detecta nuevas necesidades y tendencias del mercado. Fidelización del cliente. Permite fortalecer la relación empresa-consumidor. ').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.png', alt='Mejora del posicionamiento. Permite diseñar estrategias alineadas con las necesidades del cliente. Segmentación efectiva. Facilita la identificación de grupos de consumidores homogéneos. Innovación de productos. Detecta nuevas necesidades y tendencias del mercado. Fidelización del cliente. Permite fortalecer la relación empresa-consumidor. ').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='La figura muestra algunos beneficios del estudio del consumidor en el marketing.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.png', alt='La figura muestra algunos beneficios del estudio del consumidor en el marketing.').mx-auto
 
         figcaption 
           b Nota. 
