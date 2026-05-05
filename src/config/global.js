@@ -218,7 +218,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_62330147_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -342,12 +342,12 @@ export default {
         {
           nombre: 'Nicolas Cruz Ríos',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -366,11 +366,6 @@ export default {
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
-        },
-        {
-          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
