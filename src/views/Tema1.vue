@@ -40,7 +40,8 @@
       .col-lg-3.col-md-8.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/img03.png", data-aos="zoom-in")
-      
+    
+    p.mb-4 Factores que influyen en el comportamiento del consumidor.
 
     .row.mb-5.justify-content-center
       .col-lg-3.col-md-6.mb-4.mb-lg-0
@@ -204,12 +205,52 @@
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
-        .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img23.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 <b>Ejemplo aplicado.</b> Un ejemplo empresarial se observa en el sector de alimentos de consumo masivo, donde empresas como Coca-Cola orientan sus estrategias hacia el posicionamiento emocional y la repetición publicitaria para fortalecer el comportamiento de compra habitual, mientras que empresas del sector automotriz implementan estrategias de información detallada y asesoría especializada dirigidas al comportamiento complejo de compra.
+
+
+    p.mb-4 Etapas del proceso de decisión de compra.
+    .row.mb-5.justify-content-center
+      .col-lg-3.col-md-6.mb-4.mb-lg-0
+        .tarjeta.bg-fondo-6.p-4.h-100
+          .row.justify-content-center.align-items-center
+            .col-lg-12.col-md-8.mb-3.mb-lg-3
+              figure
+                img(src="@/assets/curso/tema1/img33.svg", data-aos="zoom-in").w-50.mx-auto
+            .col-lg-12
+              p.mb-0.text-center <b>Complejo</b>
+              p.mb-0.text-center Alta implicación y diferencias significativas entre marcas.
+      .col-lg-3.col-md-6.mb-4.mb-lg-0
+        .tarjeta.bg-fondo-6.p-4.h-100
+          .row.justify-content-center.align-items-center
+            .col-lg-12.col-md-8.mb-3.mb-lg-3
+              figure
+                img(src="@/assets/curso/tema1/img34.svg", data-aos="zoom-in").w-50.mx-auto
+            .col-lg-12
+              p.mb-0.text-center <b>Habitual</b>
+              p.mb-0.text-center Baja implicación y compra rutinaria.
+      .col-lg-3.col-md-6.mb-4.mb-lg-0
+        .tarjeta.bg-fondo-6.p-4.h-100
+          .row.justify-content-center.align-items-center
+            .col-lg-12.col-md-8.mb-3.mb-lg-3
+              figure
+                img(src="@/assets/curso/tema1/img35.svg", data-aos="zoom-in").w-50.mx-auto
+            .col-lg-12
+              p.mb-0.text-center <b>Búsqueda de variedad</b>
+              p.mb-0.text-center Cambio frecuente de marca por curiosidad.
+      .col-lg-3.col-md-6.mb-4.mb-lg-0
+        .tarjeta.bg-fondo-6.p-4.h-100
+          .row.justify-content-center.align-items-center
+            .col-lg-12.col-md-8.mb-3.mb-lg-3
+              figure
+                img(src="@/assets/curso/tema1/img36.svg", data-aos="zoom-in").w-50.mx-auto
+            .col-lg-12
+              p.mb-0.text-center <b>Reductor de disonancia</b>
+              p.mb-0.text-center Alta implicación con pocas diferencias entre marcas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")

@@ -292,8 +292,7 @@ export default {
     {
       referencia:
         'Álvarez Sigüenza, J. F. (2024). <em>Los segmentos del marketing: análisis, definición y tipos</em>. RAE-IC, Revista de la Asociación Española de Investigación de la Comunicación, 11(21). raeic',
-      link:
-        'https://rodin.uca.es/bitstream/handle/10498/31668/Segmentacio_n%20de%20mercado.pdf?sequence=4',
+      link: '',
     },
     {
       referencia:

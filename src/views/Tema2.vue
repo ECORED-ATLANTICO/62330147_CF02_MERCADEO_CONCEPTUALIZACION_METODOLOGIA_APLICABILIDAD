@@ -162,6 +162,7 @@
         figure
           img(src="@/assets/curso/tema2/img18.png", data-aos="zoom-in")
       .col-lg-9
+        p.mb-4 Variables psicológicas del consumidor
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-5")
           div(titulo="Motivación")
             p.ms-5 Impulsos que orientan la compra.
@@ -229,7 +230,7 @@
  
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dhSD-ndBs6g" target="_blank")
-                    span Ver video
+                    span Enlace video
                     i.fas.fa-play
         
 

@@ -41,7 +41,7 @@
         p.mb-3 La implementación de estrategias centradas en el cliente también implica el diseño de programas de servicio posventa, atención personalizada y comunicación continua con el consumidor. Estas acciones fortalecen la confianza del cliente y generan ventajas competitivas sostenibles.
 
         .cajon.bg-color-c2.p-4.mb-0
-          p.mb-0 <b>Insight:</b> las empresas que gestionan activamente la experiencia del cliente pueden incrementar la fidelización hasta en un 25 %.
+          p.mb-0 <b><i>Insight:</i></b> las empresas que gestionan activamente la experiencia del cliente pueden incrementar la fidelización hasta en un 25 %.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -76,10 +76,10 @@
         .tarjeta-cita-fondo-2.p-4.p-lg-5
           .row.justify-content-start.align-items-center
             .col-lg-7.z-3
-              p.mb-4.fw-bold Escucha el podcast
+              p.mb-4.fw-bold Escucha el pódcast
               TarjetaAudio.color-acento-botones.mb-0(
-                texto="<h4 class='mb-0'>xxxxx</h4>"
-                :audio="require('@/assets/curso/tema5/img05.png')"
+                texto="<h4 class='mb-0'>Diseños de estrategias.</h4>"
+                :audio="require('@/assets/curso/audio/Podcast_1_CF02_62330147 Mercadeo, Conceptualización, Metodología Y Aplicabilidad.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = true"
                 style="border: none !important; padding: 0 !important; background: transparent !important;"
               )
@@ -138,13 +138,13 @@
             .col-lg
               .row.justify-content-center.align-items-center
                 .col-lg.mb-3.mb-lg-0
-                  p.mb-0 Lo invitamos a ver el siguiente video educativo por medio del cual podrá profundizar en temática desarrollada.
+                  p.mb-0 Lo invitamos a consultar el siguiente video educativo por medio del cual podrá profundizar en temática desarrollada.
                   p.mb-0 <b>Propuesta de valor</b>
                   p.mb-0 Descripción: este video presenta el concepto de propuesta de valor y el proceso básico de diseño, destacando cómo las empresas pueden solucionar necesidades o problemas reales de los clientes para generar preferencia, fidelidad y diferenciación competitiva. Se mencionan ejemplos y explicaciones didácticas que facilitan su aplicación práctica en la formulación de estrategias de <em>marketing</em>.
  
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zeih25sCGfw" target="_blank")
-                    span Ver video
+                    span Enlace video
                     i.fas.fa-play
 
                             

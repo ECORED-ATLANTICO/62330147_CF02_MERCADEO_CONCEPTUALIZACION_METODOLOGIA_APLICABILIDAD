@@ -47,7 +47,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .cajon.bg-color-c2.p-4.mb-0
-          p.mb-0  <b>Insight:</b> las empresas con estrategias de <em>marketing</em> centradas en datos incrementan hasta un 20 % la efectividad de sus campañas comerciales.
+          p.mb-0  <b><i>Insight:</i></b> las empresas con estrategias de <em>marketing</em> centradas en datos incrementan hasta un 20 % la efectividad de sus campañas comerciales.
 
     p.mb-4 Componentes de la estrategia de <em>marketing</em>
 

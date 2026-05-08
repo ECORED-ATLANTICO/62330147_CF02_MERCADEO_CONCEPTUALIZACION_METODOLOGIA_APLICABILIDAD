@@ -41,7 +41,7 @@
 
       .col-lg-10.col-md-12
         .cajon.bg-color-c3.p-4.mb-0
-          p.mb-0 <b>Insight.</b> las empresas que integran analítica de clientes en la planificación estratégica aumentan la efectividad de sus campañas comerciales.
+          p.mb-0 <b><i>Insight:</i></b> las empresas que integran analítica de clientes en la planificación estratégica aumentan la efectividad de sus campañas comerciales.
 
     separador
 
@@ -158,7 +158,7 @@
  
                 .col-lg-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=owxaHr0-5kQ" target="_blank")
-                    span Ver video
+                    span Enlace video
                     i.fas.fa-play
 
     .row.justify-content-center.align-items-center.mb-5
@@ -185,10 +185,10 @@
         .tarjeta-cita-fondo-2.p-4.p-lg-5
           .row.justify-content-start.align-items-center
             .col-lg-7.z-3
-              p.mb-4.fw-bold Escucha el podcast
+              p.mb-4.fw-bold Escucha el pódcast
               TarjetaAudio.color-acento-botones.mb-0(
-                texto="<h4 class='mb-0'>xxxxx</h4>"
-                :audio="require('@/assets/curso/tema5/img05.png')"
+                texto="<h4 class='mb-0'>Integración.</h4>"
+                :audio="require('@/assets/curso/audio/Podcast_2_CF02_el análisis del consumidor y su relación con el diseño estratégico.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = true"
                 style="border: none !important; padding: 0 !important; background: transparent !important;"
               )
