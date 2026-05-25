@@ -115,7 +115,7 @@
                 .col-lg.mb-4.mb-lg-0
                   p.mb-0 <b>Veamos un ejemplo de una propuesta estratégica:</b> 
                 .col-lg-auto.text-center
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zeih25sCGfw" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('descargas/Ejemplo de una propuesta estratégica.pdf')" target="_blank")
                     span Ver PDF
                     i.fas.fa-file-pdf
 
