@@ -8,7 +8,7 @@
         figure
           img(src="@/assets/curso/img01.svg", data-aos="zoom-in")
       .col-lg-10
-        p.mb-3 El Componente formativo Consumidor y estrategias de mercadeo ofrece al aprendiz una comprensión integral del comportamiento del consumidor como base para la formulación de estrategias de mercadeo efectivas, abordando las variables culturales, sociales, personales y psicológicas que influyen en las decisiones de compra, así como los métodos de análisis que permiten interpretar las dinámicas del mercado.
+        p.mb-3 El componente formativo “Consumidor y estrategias de mercadeo” ofrece al aprendiz una comprensión integral del comportamiento del consumidor como base para la formulación de estrategias de mercadeo efectivas, abordando las variables culturales, sociales, personales y psicológicas que influyen en las decisiones de compra, así como los métodos de análisis que permiten interpretar las dinámicas del mercado.
         p.mb-0 Asimismo, el componente integra el análisis del consumidor con el diseño de estrategias comerciales, la construcción de propuestas de valor y la preparación de esquemas estratégicos base para el plan de mercadeo, fortaleciendo la capacidad del aprendiz para transformar la información del mercado en acciones estratégicas orientadas al logro de objetivos organizacionales.
 
     .row.justify-content-center

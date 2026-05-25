@@ -18,7 +18,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-9.mb-4.mb-lg-0
-        img(src="@/assets/curso/intro/img02.png", alt="alt")
+        img(src="@/assets/curso/intro/img02.png", alt="")
       .col-lg-9.col-md-12
         p.mb-4 La importancia del componente radica en que las decisiones comerciales modernas requieren comprender profundamente a los consumidores y anticipar sus necesidades. Las empresas que logran interpretar correctamente las motivaciones, expectativas y hábitos de consumo tienen mayores posibilidades de posicionarse competitivamente en el mercado. Por ello, el estudio del comportamiento del consumidor y la formulación de estrategias de mercadeo constituyen competencias esenciales para profesionales del área comercial, <em>marketing</em> y gestión empresarial.
           

@@ -181,7 +181,7 @@ export default {
           },
           {
             numero: '6.3',
-            titulo: 'Plan de mercadeo',
+            titulo: 'Plan de <em>marketing</em>',
             hash: 't_6_3',
           },
         ],

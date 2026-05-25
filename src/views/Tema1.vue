@@ -21,7 +21,7 @@
 
     
     .bg-full-width.bg-fondo-1.px-4.py-3
-      img(src="@/assets/curso/tema1/img02.png", alt="Imagen decorativa")
+      img(src="@/assets/curso/tema1/img02.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
         p.banner-text El comportamiento del consumidor se define como el conjunto de actividades mentales, emocionales y físicas que realizan las personas al seleccionar, adquirir, usar y evaluar bienes o servicios que satisfacen sus necesidades. Este proceso involucra tanto variables internas del individuo como influencias externas del entorno social y cultural, lo que convierte el estudio del consumidor en un campo interdisciplinario que integra la psicología, la sociología y la economía; comprender estas dinámicas permite a las organizaciones diseñar estrategias de mercado más efectivas orientadas a segmentos específicos.

@@ -100,7 +100,7 @@
         figure
           img(src="@/assets/curso/tema5/img06.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") La propuesta de valor representa el conjunto de beneficios que una empresa ofrece a su mercado objetivo para satisfacer sus necesidades mejor que la competencia, esta propuesta integra atributos funcionales, emocionales y económicos que generan diferenciación y posicionamiento en el mercado.
+        p.mb-3(data-aos="fade-right") La propuesta de valor representa el conjunto de beneficios que una empresa ofrece a su mercado objetivo para satisfacer sus necesidades mejor que la competencia. Esta propuesta integra atributos funcionales, emocionales y económicos que generan diferenciación y posicionamiento en el mercado.
         
         .container.mb-4
           .row.align-items-center.bg-color-2.p-4.mb-0.br-15

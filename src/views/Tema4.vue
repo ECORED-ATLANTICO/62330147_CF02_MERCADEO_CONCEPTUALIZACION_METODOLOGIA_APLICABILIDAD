@@ -12,12 +12,12 @@
         figure
           img(src="@/assets/curso/tema4/img01.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") Las estrategias de <em>marketing</em> constituyen el conjunto de decisiones que orientan a la organización hacia el logro de sus objetivos comerciales mediante la adecuada comprensión del mercado y del consumidor, estas estrategias permiten seleccionar segmentos, diseñar propuestas de valor diferenciadas y coordinar acciones comerciales coherentes con el entorno competitivo. En el contexto actual, caracterizado por mercados altamente dinámicos, la planificación estratégica de <em>marketing</em> se convierte en un proceso continuo que integra análisis del consumidor, innovación de productos y uso de tecnologías digitales.    
+        p.mb-3(data-aos="fade-right") Las estrategias de <em>marketing</em> constituyen el conjunto de decisiones que orientan a la organización hacia el logro de sus objetivos comerciales mediante la adecuada comprensión del mercado y del consumidor. Estas estrategias permiten seleccionar segmentos, diseñar propuestas de valor diferenciadas y coordinar acciones comerciales coherentes con el entorno competitivo. En el contexto actual, caracterizado por mercados altamente dinámicos, la planificación estratégica de <em>marketing</em> se convierte en un proceso continuo que integra análisis del consumidor, innovación de productos y uso de tecnologías digitales.    
         
         .container
           .row.align-items-center.bg-color-5.p-4.mb-0.br-15
             .col-lg
-              p.mb-0 Comprender la relación entre la mezcla de <em>marketing</em> y el comportamiento del consumidor facilita la toma de decisiones empresariales más precisas, incrementando la efectividad de las acciones comerciales, las organizaciones que diseñan estrategias basadas en información del mercado logran mayor posicionamiento, fidelización de clientes y sostenibilidad competitiva. Por ello, este capítulo desarrolla los fundamentos estratégicos de <em>marketing</em>, la estructura del <em>marketing</em> mix y su adaptación a diferentes segmentos de mercado, integrando ejemplos empresariales y aplicaciones prácticas.
+              p.mb-0 Comprender la relación entre la mezcla de <em>marketing</em> y el comportamiento del consumidor facilita la toma de decisiones empresariales más precisas, incrementando la efectividad de las acciones comerciales. Las organizaciones que diseñan estrategias basadas en información del mercado logran mayor posicionamiento, fidelización de clientes y sostenibilidad competitiva. Por ello, este capítulo desarrolla los fundamentos estratégicos de <em>marketing</em>, la estructura del <em>marketing</em> mix y su adaptación a diferentes segmentos de mercado, integrando ejemplos empresariales y aplicaciones prácticas.
   
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/img02.svg").mx-auto
@@ -29,7 +29,7 @@
 
       
     .bg-full-width.bg-fondo-1.px-4.py-3
-      img(src="@/assets/curso/tema4/img03.png", alt="Imagen decorativa")
+      img(src="@/assets/curso/tema4/img03.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
         p.banner-text La estrategia de <em>marketing</em> se define como el plan estructurado mediante el cual una empresa determina los mercados objetivo que atenderá y las acciones que desarrollará para satisfacer sus necesidades de manera rentable (Kotler & Keller, 2016). Esta estrategia incluye decisiones sobre posicionamiento, diferenciación, segmentación y propuesta de valor, orientando las actividades comerciales de la organización en el mediano y largo plazo.
@@ -54,29 +54,29 @@
     .row.align-items-stretch.mb-3(data-aos="fade-right")
       .col-lg-3.col-md-6.p-4
         .row.align-items-center.bg-color-5.h-100.p-4.mb-0.br-15
-          .col-lg-auto
-            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img05.svg").mx-auto
-          .col-lg
+          .col-lg-12.col-xl-auto.mb-lg-2.mb-0
+            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img05.svg", style="max-width: 100px; ").mx-auto
+          .col-lg-12.col-xl
             p.mb-1 <b>Mercado objetivo</b>
             p.mb-0 Segmento de clientes seleccionado.
       .col-lg-3.col-md-6.p-4
         .row.align-items-center.bg-color-5.h-100.p-4.mb-0.br-15
-          .col-lg-auto
-            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img06.svg").mx-auto
+          .col-lg-12.col-xl-auto.mb-lg-2.mb-0
+            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img06.svg", style="max-width: 100px; max-height: 100px;").mx-auto
           .col-lg
             p.mb-1 <b>Propuesta de valor</b>
             p.mb-0 Beneficio diferencial ofrecido.
       .col-lg-3.col-md-6.p-4
         .row.align-items-center.bg-color-5.h-100.p-4.mb-0.br-15
-          .col-lg-auto
-            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img07.svg").mx-auto
+          .col-lg-12.col-xl-auto.mb-lg-2.mb-0
+            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img07.svg", style="max-width: 100px;").mx-auto
           .col-lg
             p.mb-1 <b>Posicionamiento</b>
             p.mb-0 Imagen que se desea proyectar.
       .col-lg-3.col-md-6.p-4
         .row.align-items-center.bg-color-5.h-100.p-4.mb-0.br-15
-          .col-lg-auto
-            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img08.svg").mx-auto
+          .col-lg-12.col-xl-auto.mb-lg-2.mb-0
+            img.d-none.d-lg-flex(src="@/assets/curso/tema4/img08.svg", style="max-width: 100px;").mx-auto
           .col-lg
             p.mb-1 <b>Acciones estratégicas</b>
             p.mb-0 Decisiones de <em>marketing mix</em>.
@@ -133,7 +133,7 @@
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/img14.svg").mx-auto
 
-    p.mb-4 Comprender los hábitos de consumo permite diseñar mensajes promocionales más efectivos, definir precios adecuados y seleccionar canales de distribución alineados con las preferencias del cliente, esta integración fortalece la competitividad empresarial.
+    p.mb-4 Comprender los hábitos de consumo permite diseñar mensajes promocionales más efectivos, definir precios adecuados y seleccionar canales de distribución alineados con las preferencias del cliente. Esta integración fortalece la competitividad empresarial.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12          
@@ -171,8 +171,7 @@
           img(src="@/assets/curso/tema4/img18.png", data-aos="zoom-in").mx-auto
 
 
-    p.mb-5 La adaptación estratégica según segmentos facilita la innovación comercial, el desarrollo de nuevos productos y la expansión hacia nichos especializados del mercado, permitiendo a las organizaciones competir de manera más eficiente. Esta adaptación podría conllevar por ejemplo a que para un segmento de jóvenes se aplique la estrategia de promoción digital e influencers, para uno empresarial se aplique los servicios premium y soporte especializado y para adultos mayores la atención personalizada.
-  
+    p.mb-5 La adaptación estratégica según segmentos facilita la innovación comercial, el desarrollo de nuevos productos y la expansión hacia nichos especializados del mercado, permitiendo a las organizaciones competir de manera más eficiente. Esta adaptación podría conllevar por ejemplo a que para un segmento de jóvenes se aplique la estrategia de promoción digital e <em>influencers</em>, para uno empresarial se aplique los servicios premium y soporte especializado y para adultos mayores la atención personalizada.
 
               
     .row.justify-content-center.align-items-center.mb-5
@@ -189,7 +188,7 @@
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
                   h5.mb-0.text-bold
-                    | La coherencia entre estrategia y valores personales fortalece la credibilidad de cualquier decisión empresarial
+                    | La coherencia entre estrategia y valores personales fortalece la credibilidad de cualquier decisión empresarial.
                   i.fas.fa-quote-right
 
 

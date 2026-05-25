@@ -79,7 +79,7 @@
       h2 2.2 Personales y demográficas
 
     .bg-full-width.bg-fondo-1.px-4.py-3
-      img(src="@/assets/curso/tema2/img09.png", alt="Imagen decorativa")
+      img(src="@/assets/curso/tema2/img09.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
         p.banner-text Las variables personales y demográficas corresponden a las características individuales de los consumidores que influyen en sus preferencias, hábitos de compra y capacidad adquisitiva. Entre estas variables se encuentran la edad, el género, el nivel educativo, la ocupación, el ingreso, el ciclo de vida familiar y el estilo de vida, factores que permiten comprender las necesidades específicas de diferentes grupos poblacionales.
@@ -102,7 +102,7 @@
               .col-lg-6.mb-4.mb-lg-0
                 p.mb-0 <b>Etapas del ciclo de vida.</b>
                 p.mb-0 Impacto en <em>marketing</em>: define necesidades específicas.
-                p.mb-0 Ejemplo: productos infantiles o senior.
+                p.mb-0 Ejemplo: productos infantiles o sénior.
               .col-lg-6.col-md-8.alig
                 figure
                   img(src="@/assets/curso/tema2/img12.png", data-aos="zoom-in").mx-auto
@@ -194,7 +194,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-9.mb-3.mb-lg-0
-        p.mb-3(data-aos="fade-right") El desarrollo de las tecnologías digitales ha transformado profundamente el comportamiento del consumidor, generando nuevas formas de interacción entre empresas y clientes, las plataformas digitales, redes sociales, comercio electrónico y herramientas de inteligencia artificial influyen en la búsqueda de información, comparación de productos y toma de decisiones de compra.
+        p.mb-3(data-aos="fade-right") El desarrollo de las tecnologías digitales ha transformado profundamente el comportamiento del consumidor, generando nuevas formas de interacción entre empresas y clientes. Las plataformas digitales, redes sociales, comercio electrónico y herramientas de inteligencia artificial influyen en la búsqueda de información, comparación de productos y toma de decisiones de compra.
         .container
             .row.align-items-center.bg-color-7.p-4.mb-0.br-15
               .col-lg-auto.d-none.d-lg-flex

@@ -8,7 +8,7 @@
       h1 Análisis del consumidor
 
     .bg-full-width.bg-fondo-1.px-4.py-3
-      img(src="@/assets/curso/tema3/img01.png", alt="Imagen decorativa")
+      img(src="@/assets/curso/tema3/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
         p.banner-text  El análisis del consumidor permite comprender las razones que motivan las decisiones de compra y los factores que determinan la preferencia por determinados productos o servicios. Las organizaciones que investigan de manera sistemática el comportamiento del consumidor logran identificar patrones de consumo, tendencias emergentes y oportunidades de mercado que facilitan la formulación de estrategias comerciales más efectivas y orientadas al cliente.
@@ -28,7 +28,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1 Métodos
 
-    p.mb-4 El análisis del comportamiento del consumidor se apoya en métodos sistemáticos de investigación que permiten comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra, estos métodos incluyen técnicas cuantitativas y cualitativas orientadas a recopilar información sobre hábitos de consumo, preferencias, motivaciones y percepciones del mercado (Malhotra, 2019).
+    p.mb-4 El análisis del comportamiento del consumidor se apoya en métodos sistemáticos de investigación que permiten comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra. Estos métodos incluyen técnicas cuantitativas y cualitativas orientadas a recopilar información sobre hábitos de consumo, preferencias, motivaciones y percepciones del mercado (Malhotra, 2019).
 
     h4.mb-4 Técnicas
     .row.justify-content-center.mb-5
@@ -42,7 +42,7 @@
 
       .col-lg-6.col-md-12.mb-4.mb-lg-0.br-25.h-100.p-2
         figure
-          img(src="@/assets/curso/tema3/img4.png", alt="alt")
+          img(src="@/assets/curso/tema3/img4.png", alt="")
         
         .p-4.bg-color-1.br-25
           h4.mb-3 Cualitativa
@@ -161,14 +161,14 @@
               p.mb-0 Usa variables como estilo de vida, valores, personalidad y se aplica en diseño de campañas emocionales.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema3/img12.png", alt="Crema pastelera").mx-auto
+                img(src="@/assets/curso/tema3/img12.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               h4.mb-3 Conductual
-              p.mb-0 Usa variables como la frecuencia de uso, beneficios buscados y lealtad y se aplica en programas de fidelización.
+              p.mb-0 Usa variables como la frecuencia de uso, beneficios buscados y lealtad, y se aplica en programas de fidelización.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema3/img13.png", alt="Crema pastelera").mx-auto
+                img(src="@/assets/curso/tema3/img13.png", alt="").mx-auto
 
     separador
 
@@ -224,7 +224,7 @@
             caption Nota. Adaptado de Schiffman & Wisenblit (2019).
             thead
               tr
-                th Decisiones empresariales
+                th Decisión comercial
                 th Información utilizada
                 th Beneficio estratégico
             tbody
@@ -255,7 +255,7 @@
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
                   h5.mb-0.text-bold
-                    | Comprender al consumidor no solo permite vender mejor, también implica actuar con responsabilidad, respetando sus necesidades reales y promoviendo decisiones de consumo conscientes
+                    | Comprender al consumidor no solo permite vender mejor, también implica actuar con responsabilidad, respetando sus necesidades reales y promoviendo decisiones de consumo conscientes.
                   i.fas.fa-quote-right
             .col-lg-auto
               img(
