@@ -28,7 +28,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1 Métodos
 
-    p.mb-4 El análisis del comportamiento del consumidor se apoya en métodos sistemáticos de investigación que permiten comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra. Estos métodos incluyen técnicas cuantitativas y cualitativas orientadas a recopilar información sobre hábitos de consumo, preferencias, motivaciones y percepciones del mercado (Malhotra, 2019).
+    p.mb-4 El análisis del comportamiento del consumidor se apoya en métodos sistemáticos de investigación que permiten comprender cómo las personas identifican necesidades, evalúan alternativas y toman decisiones de compra; estos métodos incluyen técnicas cuantitativas y cualitativas orientadas a recopilar información sobre hábitos de consumo, preferencias, motivaciones y percepciones del mercado (Malhotra, 2019).
 
     h4.mb-4 Técnicas
     .row.justify-content-center.mb-5

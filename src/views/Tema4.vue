@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/tema4/img01.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") Las estrategias de <em>marketing</em> constituyen el conjunto de decisiones que orientan a la organización hacia el logro de sus objetivos comerciales mediante la adecuada comprensión del mercado y del consumidor. Estas estrategias permiten seleccionar segmentos, diseñar propuestas de valor diferenciadas y coordinar acciones comerciales coherentes con el entorno competitivo. En el contexto actual, caracterizado por mercados altamente dinámicos, la planificación estratégica de <em>marketing</em> se convierte en un proceso continuo que integra análisis del consumidor, innovación de productos y uso de tecnologías digitales.    
+        p.mb-3(data-aos="fade-right") Las estrategias de <em>marketing</em> constituyen el conjunto de decisiones que orientan a la organización hacia el logro de sus objetivos comerciales mediante la adecuada comprensión del mercado y del consumidor; estas estrategias permiten seleccionar segmentos, diseñar propuestas de valor diferenciadas y coordinar acciones comerciales coherentes con el entorno competitivo. En el contexto actual, caracterizado por mercados altamente dinámicos, la planificación estratégica de <em>marketing</em> se convierte en un proceso continuo que integra análisis del consumidor, innovación de productos y uso de tecnologías digitales.    
         
         .container
           .row.align-items-center.bg-color-5.p-4.mb-0.br-15
@@ -100,8 +100,8 @@
             b Figura 2. 
             span Elementos de la mezcla de <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema4/img10.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema4/img11.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema4/img10.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P. En el centro aparece un círculo con el concepto “4P”, conectado a cuatro elementos clave: producto, relacionado con la oferta al consumidor; precio, asociado al valor económico; plaza, enfocada en la distribución; y promoción, vinculada con la comunicación y difusión del producto.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema4/img11.svg', alt='La figura muestra los diferentes elementos de la mezcla del marketing, como lo son las 4P. En el centro aparece un círculo con el concepto “4P”, conectado a cuatro elementos clave: producto, relacionado con la oferta al consumidor; precio, asociado al valor económico; plaza, enfocada en la distribución; y promoción, vinculada con la comunicación y difusión del producto.').mx-auto
 
         figcaption 
           b Nota. 
@@ -133,7 +133,7 @@
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/img14.svg").mx-auto
 
-    p.mb-4 Comprender los hábitos de consumo permite diseñar mensajes promocionales más efectivos, definir precios adecuados y seleccionar canales de distribución alineados con las preferencias del cliente. Esta integración fortalece la competitividad empresarial.
+    p.mb-4 Comprender los hábitos de consumo permite diseñar mensajes promocionales más efectivos, definir precios adecuados y seleccionar canales de distribución alineados con las preferencias del cliente; esta integración fortalece la competitividad empresarial.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12          
@@ -142,8 +142,8 @@
             b Figura 3. 
             span Variables del consumidor aplicadas al <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema4/img15.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema4/img16.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema4/img15.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing. La primera variable destaca la influencia de la motivación que busca generar interés y conexión con el público. La segunda variable aborda el estilo de vida como referencia para diseñar productos y servicios ajustados a necesidades específicas. La tercera variable resalta las preferencias digitales y su relación con los hábitos de consumo en entornos virtuales.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema4/img16.svg', alt='La figura indica algunas variables del consumidor aplicas al marketing. La primera variable destaca la influencia de la motivación que busca generar interés y conexión con el público. La segunda variable aborda el estilo de vida como referencia para diseñar productos y servicios ajustados a necesidades específicas. La tercera variable resalta las preferencias digitales y su relación con los hábitos de consumo en entornos virtuales.').mx-auto
 
         figcaption 
           b Nota. 
@@ -171,7 +171,7 @@
           img(src="@/assets/curso/tema4/img18.png", data-aos="zoom-in").mx-auto
 
 
-    p.mb-5 La adaptación estratégica según segmentos facilita la innovación comercial, el desarrollo de nuevos productos y la expansión hacia nichos especializados del mercado, permitiendo a las organizaciones competir de manera más eficiente. Esta adaptación podría conllevar por ejemplo a que para un segmento de jóvenes se aplique la estrategia de promoción digital e <em>influencers</em>, para uno empresarial se aplique los servicios premium y soporte especializado y para adultos mayores la atención personalizada.
+    p.mb-5 La adaptación estratégica según segmentos facilita la innovación comercial, el desarrollo de nuevos productos y la expansión hacia nichos especializados del mercado, permitiendo a las organizaciones competir de manera más eficiente. Esta adaptación podría conllevar, por ejemplo, a que para el segmento de jóvenes se aplique una estrategia de promoción digital e <em>influencers</em>; para el segmento empresarial se aplique los servicios premium y soporte especializado y para adultos mayores la atención personalizada.
 
               
     .row.justify-content-center.align-items-center.mb-5

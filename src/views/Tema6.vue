@@ -36,7 +36,7 @@
 
     .row.mb-3.justify-content-center.align-items-center
       .col-lg-12.mb-4.mb-lg-4
-        p.mb-0 La relación entre análisis del consumidor y estrategia se evidencia en la adaptación de productos y servicios a las características del mercado objetivo. Además, la incorporación del análisis del consumidor en las decisiones estratégicas permite anticipar tendencias del mercado y ajustar las acciones comerciales de forma oportuna, incrementando la competitividad organizacional.
+        p.mb-0 La relación entre análisis del consumidor y estrategia se evidencia en la adaptación de productos y servicios a las características del mercado objetivo; además, la incorporación del análisis del consumidor en las decisiones estratégicas permite anticipar tendencias del mercado y ajustar las acciones comerciales de forma oportuna, incrementando la competitividad organizacional.
 
 
       .col-lg-10.col-md-12
@@ -53,7 +53,7 @@
         figure
           img(src="@/assets/curso/tema6/img04.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") La construcción de propuestas estratégicas de mercadeo implica definir acciones organizadas orientadas al logro de objetivos comerciales, teniendo en cuenta el análisis del mercado, la segmentación y el posicionamiento del producto. Estas propuestas establecen el rumbo de las actividades comerciales y orientan la asignación de recursos empresariales.
+        p.mb-3(data-aos="fade-right") La construcción de propuestas estratégicas de mercadeo implica definir acciones organizadas orientadas al logro de objetivos comerciales, teniendo en cuenta el análisis del mercado, la segmentación y el posicionamiento del producto; estas propuestas establecen el rumbo de las actividades comerciales y orientan la asignación de recursos empresariales.
 
         .container.mb-4
           .row.align-items-center.bg-color-3.p-4.mb-0.br-15
@@ -130,11 +130,11 @@
         figure
           img(src="@/assets/curso/tema6/img11.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") El esquema estratégico base del plan de <em>marketing</em> corresponde al documento estructurado que sintetiza la información del mercado, la segmentación del consumidor, los objetivos comerciales y las estrategias que la empresa implementará para alcanzar sus metas. Este esquema sirve como guía de acción para la gestión comercial organizacional.
+        p.mb-3(data-aos="fade-right") El esquema estratégico base del plan de <em>marketing</em> corresponde al documento estructurado que sintetiza la información del mercado, la segmentación del consumidor, los objetivos comerciales y las estrategias que la empresa implementará para alcanzar sus metas; este esquema sirve como guía de acción para la gestión comercial organizacional.
     
         .row.align-items-center.mb-0.br-15
           .col-lg
-            p.mb-0 La preparación del esquema estratégico implica consolidar información del diagnóstico del mercado, análisis del consumidor, evaluación de la competencia y definición de estrategias de <em>marketing</em>, su elaboración facilita la coordinación de las acciones de <em>marketing</em>. Permite monitorear resultados y favorece la toma de decisiones oportunas para ajustar las estrategias comerciales según la evolución del mercado.
+            p.mb-0 La preparación del esquema estratégico implica consolidar información del diagnóstico del mercado, análisis del consumidor, evaluación de la competencia y definición de estrategias de <em>marketing</em>; su elaboración facilita la coordinación de las acciones de <em>marketing</em>, permite monitorear resultados y favorece la toma de decisiones oportunas para ajustar las estrategias comerciales según la evolución del mercado.
 
           .col-lg-auto
             img.d-none.d-lg-flex(src="@/assets/curso/tema6/img12.svg").mx-auto

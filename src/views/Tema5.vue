@@ -100,7 +100,7 @@
         figure
           img(src="@/assets/curso/tema5/img06.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-3(data-aos="fade-right") La propuesta de valor representa el conjunto de beneficios que una empresa ofrece a su mercado objetivo para satisfacer sus necesidades mejor que la competencia. Esta propuesta integra atributos funcionales, emocionales y económicos que generan diferenciación y posicionamiento en el mercado.
+        p.mb-3(data-aos="fade-right") La propuesta de valor representa el conjunto de beneficios que una empresa ofrece a su mercado objetivo para satisfacer sus necesidades mejor que la competencia; esta propuesta integra atributos funcionales, emocionales y económicos que generan diferenciación y posicionamiento en el mercado.
         
         .container.mb-4
           .row.align-items-center.bg-color-2.p-4.mb-0.br-15
@@ -120,8 +120,8 @@
             b Figura 4. 
             span Elementos de la propuesta de valor
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema5/img08.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor. El beneficio funcional, se enfoca en ofrecer soluciones útiles a necesidades específicas. El beneficio emocional, resalta la generación de experiencias positivas y vínculos emocionales con el consumidor y/o cliente. La evidencia de valor, muestra la confianza y credibilidad mediante garantías, certificaciones y opiniones de usuarios. La diferenciación destaca los aspectos únicos que permiten sobresalir frente a otras opciones del mercado.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema5/img09.svg', alt='La figura muestra los elementos más importantes de la propuesta de valor. El beneficio funcional, se enfoca en ofrecer soluciones útiles a necesidades específicas. El beneficio emocional, resalta la generación de experiencias positivas y vínculos emocionales con el consumidor y/o cliente. La evidencia de valor, muestra la confianza y credibilidad mediante garantías, certificaciones y opiniones de usuarios. La diferenciación destaca los aspectos únicos que permiten sobresalir frente a otras opciones del mercado.').mx-auto
 
         figcaption 
           b Nota. 

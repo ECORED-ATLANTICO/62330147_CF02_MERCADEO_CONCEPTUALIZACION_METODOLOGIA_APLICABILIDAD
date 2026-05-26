@@ -116,8 +116,8 @@
             b Figura 1. 
             span Beneficios del estudio del consumidor en el <em>marketing</em>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='La figura muestra algunos beneficios del estudio del consumidor en el marketing.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.png', alt='La figura muestra algunos beneficios del estudio del consumidor en el marketing.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='La figura muestra los diferentes beneficios del consumidor en el marketing; en cuatro bloques: La mejora de posicionamiento, destaca el fortalecimiento según las necesidades del cliente. La segmentación efectiva, resalta la identificación adecuada de grupos de consumidores. La innovación en productos, presenta la detección de nuevas oportunidades y tendencias del mercado. La fidelización del cliente, enfatiza el fortalecimiento de la relación entre la empresa y sus clientes.').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema1/img14.png', alt='La figura muestra los diferentes beneficios del consumidor en el marketing; en cuatro bloques: La mejora de posicionamiento, destaca el fortalecimiento según las necesidades del cliente. La segmentación efectiva, resalta la identificación adecuada de grupos de consumidores. La innovación en productos, presenta la detección de nuevas oportunidades y tendencias del mercado. La fidelización del cliente, enfatiza el fortalecimiento de la relación entre la empresa y sus clientes.').mx-auto
 
         figcaption 
           b Nota. 
