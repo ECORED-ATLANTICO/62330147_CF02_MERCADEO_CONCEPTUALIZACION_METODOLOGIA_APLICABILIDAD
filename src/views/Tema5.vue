@@ -139,7 +139,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg.mb-3.mb-lg-0
                   p.mb-0 Lo invitamos a consultar el siguiente video educativo por medio del cual podrá profundizar en temática desarrollada.
-                  p.mb-0 <b>Propuesta de valor</b>
+                  p.mb-0 <b>Propuesta de valor.</b>
                   p.mb-0 Descripción: este video presenta el concepto de propuesta de valor y el proceso básico de diseño, destacando cómo las empresas pueden solucionar necesidades o problemas reales de los clientes para generar preferencia, fidelidad y diferenciación competitiva. Se mencionan ejemplos y explicaciones didácticas que facilitan su aplicación práctica en la formulación de estrategias de <em>marketing</em>.
  
                 .col-lg-auto.text-center
