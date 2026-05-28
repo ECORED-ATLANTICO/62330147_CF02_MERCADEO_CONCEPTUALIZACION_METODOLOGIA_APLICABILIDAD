@@ -80,7 +80,7 @@ export default {
           id: 2,
 
           texto:
-            '¿Por qué es importante el estudio del consumidor dentro de las estrategias de marketing?',
+            '¿Por qué es importante el estudio del consumidor dentro de las estrategias de <em>marketing</em>?',
 
           imagen: require('@/assets/actividad/imagen2.png'),
 
@@ -298,7 +298,8 @@ export default {
             {
               id: 'b',
 
-              texto: 'Eliminar las decisiones estratégicas de marketing.',
+              texto:
+                'Eliminar las decisiones estratégicas de <em>marketing</em>.',
 
               esCorrecta: false,
             },
@@ -330,7 +331,7 @@ export default {
           id: 7,
 
           texto:
-            '¿Qué elemento hace parte de la mezcla de marketing tradicional?',
+            '¿Qué elemento hace parte de la mezcla de <em>marketing</em> tradicional?',
 
           imagen: require('@/assets/actividad/imagen3.png'),
 
@@ -429,7 +430,7 @@ export default {
           id: 9,
 
           texto:
-            '¿Qué caracteriza una estrategia de marketing centrada en el cliente?',
+            '¿Qué caracteriza una estrategia de <em>marketing</em> centrada en el cliente?',
 
           imagen: require('@/assets/actividad/imagen1.png'),
 
@@ -480,7 +481,7 @@ export default {
           id: 10,
 
           texto:
-            '¿Cuál es el propósito principal de una propuesta de valor dentro del marketing?',
+            '¿Cuál es el propósito principal de una propuesta de valor dentro del <em>marketing</em>?',
 
           imagen: require('@/assets/actividad/imagen2.png'),
 
@@ -593,7 +594,7 @@ export default {
         {
           id: 13,
           texto:
-            '¿Cuál es la función principal de la promoción dentro de la mezcla de marketing?',
+            '¿Cuál es la función principal de la promoción dentro de la mezcla de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -660,7 +661,7 @@ export default {
         {
           id: 15,
           texto:
-            '¿Cuál es el objetivo principal de las estrategias de marketing orientadas al consumidor?',
+            '¿Cuál es el objetivo principal de las estrategias de <em>marketing</em> orientadas al consumidor?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -705,7 +706,8 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Reemplazar completamente la mezcla de marketing.',
+              texto:
+                'Reemplazar completamente la mezcla de <em>marketing</em>.',
               esCorrecta: false,
             },
             {
@@ -825,7 +827,7 @@ export default {
         {
           id: 20,
           texto:
-            '¿Cuál es la relación entre el análisis del consumidor y las decisiones estratégicas de marketing?',
+            '¿Cuál es la relación entre el análisis del consumidor y las decisiones estratégicas de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
